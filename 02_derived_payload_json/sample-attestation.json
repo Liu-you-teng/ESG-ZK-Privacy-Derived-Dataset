@@ -1,0 +1,11 @@
+{
+  "companyHash": "0x0000000000000000000000000000000000000000000000000000000094025264",
+  "reportingPeriod": 2024,
+  "organizationalBoundary": 1,
+  "emissionFactorVersion": 2024,
+  "scope1Emission": 106527,
+  "scope2Emission": 42401,
+  "scope3Emission": 0,
+  "eligibleReduction": 10000,
+  "insuranceThreshold": 1000000
+}

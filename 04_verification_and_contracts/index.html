@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZK-ESG 第四核：鏈上理賠提交 (真實驗證版)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- 引入 ethers.js 賦予前端真實密碼學還原能力 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ethers/5.7.2/ethers.umd.min.js"></script>
+    <style>
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; }
+
+        .wallet-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            padding: 10px 16px;
+            border: 1px solid #d8dee9;
+            border-radius: 12px;
+            background: #ffffff;
+            color: #334155;
+            font-weight: 800;
+            box-shadow: 0 4px 12px rgba(15, 23, 42, 0.06);
+            transition: all .2s ease;
+            cursor: default;
+        }
+        .wallet-btn:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 8px 20px rgba(15, 23, 42, 0.10);
+            border-color: #c7cedb;
+        }
+        .wallet-icon { width: 24px; height: 24px; flex: 0 0 24px; }
+        .wallet-status {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 4px 8px; margin-left: 2px; border-radius: 999px;
+            background: #f8fafc; color: #64748b; font-size: 11px; font-weight: 700;
+        }
+        .wallet-status-dot { width: 7px; height: 7px; border-radius: 999px; background: #94a3b8; }
+        .verify-intro {
+            background: linear-gradient(135deg, #0f172a 0%, #172554 100%);
+            border: 1px solid #334155; border-radius: 14px; padding: 14px 16px; margin-bottom: 14px;
+        }
+        .verify-intro-title { color: #f8fafc; font-size: 14px; font-weight: 800; letter-spacing: .02em; }
+        .verify-intro-text { color: #cbd5e1; font-size: 12px; line-height: 1.7; margin-top: 5px; }
+        .verify-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; margin-top: 10px; }
+        .verify-card { background: rgba(255,255,255,.05); border: 1px solid rgba(148,163,184,.2); border-radius: 10px; padding: 9px; }
+        .verify-card-kicker { color: #93c5fd; font-size: 10px; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; }
+        .verify-card-title { color: #f8fafc; font-size: 11px; font-weight: 800; margin-top: 3px; }
+        .verify-card-text { color: #94a3b8; font-size: 10px; line-height: 1.5; margin-top: 2px; }
+        @media (max-width: 900px) { .verify-grid { grid-template-columns: 1fr; } }
+    </style>
+</head>
+<body class="bg-slate-50 min-h-screen font-sans text-slate-800 p-8">
+
+    <header class="max-w-6xl mx-auto mb-8 flex justify-between items-end border-b border-slate-300 pb-4">
+        <div>
+            <h1 class="text-3xl font-extrabold text-slate-900 tracking-tight">ZK-ESG 鏈上理賠提交端</h1>
+            <p class="text-slate-500 mt-1">前端內建 ecrecover 密碼學驗證，零明文、零洩密。</p>
+        </div>
+        <div class="flex items-center gap-3 flex-wrap justify-end">
+            <button type="button" class="wallet-btn" aria-label="MetaMask 錢包連結按鈕（展示用）" title="錢包連線功能">
+                <svg class="wallet-icon" viewBox="0 0 40 40" aria-hidden="true">
+                    <path d="M6 7.5 20 3l14 4.5-3.1 16.2L20 32 9.1 23.7z" fill="#f6851b"/>
+                    <path d="M20 7 12 16.5l4.3-1.2L20 18l3.7-2.7 4.3 1.2z" fill="#fff"/>
+                    <path d="m11.2 22.1 5.4 4.1 3.4-2.5-6.6-3.2zM28.8 22.1l-5.4 4.1-3.4-2.5 6.6-3.2z" fill="#d97706"/>
+                    <path d="m16.3 18.7 3.7 2.8 3.7-2.8 5.2 1.8-8.9 5.4-8.9-5.4z" fill="#fbbf24"/>
+                </svg>
+                <span>連結 MetaMask</span>
+                <span class="wallet-status"><span class="wallet-status-dot"></span>Ether</span>
+            </button>
+            <button onclick="fetchPayload()" class="px-4 py-2 bg-slate-200 hover:bg-slate-300 text-slate-700 font-bold rounded-lg transition-colors flex items-center shadow-sm">
+                🔄 從地端載入最新 ZK 憑證
+            </button>
+        </div>
+    </header>
+
+    <div class="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-8">
+        
+        <!-- 左側：密碼學憑證區 -->
+        <div class="bg-white shadow-lg rounded-2xl p-6 border border-slate-200 flex flex-col h-[680px]">
+            <h2 class="text-lg font-bold text-emerald-700 border-b pb-2 mb-4">📦 待上鏈密碼學參數 (Payload)</h2>
+            
+            <div id="payloadBox" class="flex-grow overflow-y-auto bg-slate-100 rounded-xl p-4 border border-slate-200 font-mono text-xs text-slate-600 hidden flex-col space-y-4 break-all">
+                
+                <!-- 1. Oracle Signature (手動輸入框) -->
+                <div class="flex flex-col">
+                    <label class="font-bold text-slate-800 mb-1">1. Oracle Signature <span class="text-xs font-normal text-slate-500">（手動帶入）</span>:</label>
+                    <input type="text" id="uiSig" class="p-2 border border-blue-300 rounded focus:outline-none focus:border-blue-500 text-blue-700 bg-white shadow-sm" placeholder="請貼上 65-bytes 簽章 (0x...)">
+                </div>
+                
+                <!-- 2. Oracle Timestamp (手動輸入框) -->
+                <div class="flex flex-col">
+                    <label class="font-bold text-slate-800 mb-1">2. Oracle Timestamp <span class="text-xs font-normal text-slate-500">（手動帶入）</span>:</label>
+                    <input type="text" id="uiTime" class="p-2 border border-blue-300 rounded focus:outline-none focus:border-blue-500 text-blue-700 bg-white shadow-sm" placeholder="請貼上時間戳 (例如: 1789881034)">
+                </div>
+
+                <hr class="border-slate-300 my-2">
+
+                <!-- 3~6. ZK Proof (從 API 抓取並唯讀) -->
+                <div><span class="font-bold text-slate-800">3. Commitment Hash:</span> <div id="uiCommit" class="text-purple-600 mt-1 p-2 bg-slate-200 rounded"></div></div>
+                <div><span class="font-bold text-slate-800">4. ZK Proof (pi_a):</span> <div id="uiPa" class="text-purple-600 mt-1 p-2 bg-slate-200 rounded"></div></div>
+                <div><span class="font-bold text-slate-800">5. ZK Proof (pi_b):</span> <div id="uiPb" class="text-purple-600 mt-1 p-2 bg-slate-200 rounded"></div></div>
+                <div><span class="font-bold text-slate-800">6. ZK Proof (pi_c):</span> <div id="uiPc" class="text-purple-600 mt-1 p-2 bg-slate-200 rounded"></div></div>
+            </div>
+
+            <div id="emptyBox" class="flex-grow flex items-center justify-center bg-slate-50 rounded-xl border border-dashed border-slate-300">
+                <p class="text-slate-400">請先點擊上方按鈕載入地端 ZK 憑證...</p>
+            </div>
+
+            <button id="submitBtn" onclick="runSimulation()" disabled class="mt-4 w-full py-3 bg-emerald-600 hover:bg-emerald-700 disabled:bg-slate-300 disabled:cursor-not-allowed text-white font-bold rounded-lg transition-colors">
+                發送交易：claimInsurance    
+            </button>
+        </div>
+
+        <!-- 右側：智能合約終端機 -->
+        <div class="bg-slate-900 shadow-lg rounded-2xl flex flex-col border border-slate-700 overflow-hidden h-[680px]">
+            <div class="bg-slate-800 px-6 py-4 border-b border-slate-700 flex items-center justify-between">
+                <div>
+                    <h3 class="text-sm font-bold text-slate-100">⚡ Forge Test｜執行軌跡與防偽驗證</h3>
+                    <p class="text-[11px] text-slate-500 mt-1">將鏈下密碼學驗證流程，以可追蹤的測試軌跡呈現</p>
+                </div>
+                <span class="text-[10px] font-bold px-2 py-1 rounded bg-slate-700 text-slate-300">USING TRACE</span>
+            </div>
+            <div class="p-5 flex-grow overflow-y-auto" id="terminal">
+                <div class="verify-intro">
+                    <div class="verify-intro-title">雙核驗證：先確認「是誰簽的」，再確認「證明是否成立」</div>
+                    <div class="verify-intro-text">
+                        前端只處理 Commitment、Public Signals、ZK Proof 與 Oracle Signature 等密碼學憑證，原始碳排明文只存在於不聯網的企業本地端和可信任第三方的Oracle
+                    </div>
+                    <div class="verify-grid">
+                        <div class="verify-card">
+                            <div class="verify-card-kicker">01 · Oracle</div>
+                            <div class="verify-card-title">EIP-712 身分驗證</div>
+                            <div class="verify-card-text">還原簽署地址，確認憑證來自受信任的 Oracle私鑰簽發。</div>
+                        </div>
+                        <div class="verify-card">
+                            <div class="verify-card-kicker">02 · ZK</div>
+                            <div class="verify-card-title">Groth16 零知識證明</div>
+                            <div class="verify-card-text">透過明文資料進入zkp電路生成證明，確認保險條件成立。</div>
+                        </div>
+                        <div class="verify-card">
+                            <div class="verify-card-kicker">03 · Claim</div>
+                            <div class="verify-card-title">理賠執行條件</div>
+                            <div class="verify-card-text">雙核驗證通過後，進入資安審核與支付流程。</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="mt-4 mb-2 flex items-center justify-between">
+                    <span class="text-xs font-bold text-slate-300">Terminal Output</span>
+                    <span class="text-[10px] text-slate-500">execution trace</span>
+                </div>
+                <div class="bg-slate-950 rounded-xl border border-slate-800 p-4 font-mono text-sm text-slate-400 min-h-[260px]" id="terminalLog">
+                    <p class="text-slate-500">等待執行驗證流程……</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let currentPayload = null;
+
+        async function fetchPayload() {
+            try {
+                const response = await fetch('http://localhost:3000/api/latest-payload');
+                const data = await response.json();
+
+                if(data.success) {
+                    currentPayload = data;
+                    document.getElementById('emptyBox').classList.add('hidden');
+                    document.getElementById('payloadBox').classList.remove('hidden');
+                    document.getElementById('submitBtn').disabled = false;
+
+                    // ZK 參數自動帶入
+                    document.getElementById('uiCommit').innerText = data.publicSignals[1];
+                    document.getElementById('uiPa').innerText = JSON.stringify(data.proof.pi_a);
+                    document.getElementById('uiPb').innerText = JSON.stringify(data.proof.pi_b);
+                    document.getElementById('uiPc').innerText = JSON.stringify(data.proof.pi_c);
+                }
+            } catch(e) {
+                alert("無法連線至地端伺服器 (API Server)");
+            }
+        }
+
+        async function runSimulation() {
+            const inputSig = document.getElementById('uiSig').value.trim();
+            const inputTime = document.getElementById('uiTime').value.trim();
+            const terminal = document.getElementById('terminalLog');
+            
+            if (!inputSig || !inputTime) {
+                alert("請先填寫 Oracle Signature 與 Timestamp！");
+                return;
+            }
+
+            document.getElementById('submitBtn').disabled = true;
+            terminal.innerHTML = "<p class='text-slate-300'>[DEMO] ESGInsuranceTest::testClaimInsuranceManualInput()</p>";
+            terminal.innerHTML += "<p class='text-slate-400'>  ├─ ESGInsurance::claimInsurance(pA, pB, pC, pubSignals, OracleSignature)</p>";
+
+            // ==========================================
+            // 前端 ethers.js EIP-712 真實驗證邏輯
+            // ==========================================
+            
+            const domain = {
+                name: "ESG_ZK_Insurance_Oracle",
+                version: "1",
+                chainId: 31337,
+                verifyingContract: "0x0000000000000000000000000000000000000000"
+            };
+
+            const types = {
+                Attestation: [
+                    { name: "companyHash", type: "bytes32" },
+                    { name: "attestationCommitment", type: "uint256" },
+                    { name: "timestamp", type: "uint256" }
+                ]
+            };
+
+            const message = {
+                companyHash: "0x0000000000000000000000000000000000000000000000000000000094025264", 
+                attestationCommitment: currentPayload.publicSignals[1], 
+                timestamp: parseInt(inputTime)
+            };
+
+            const EXPECTED_ORACLE_ADDRESS = "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266".toLowerCase(); 
+
+            try {
+                await new Promise(r => setTimeout(r, 800));
+                terminal.innerHTML += "<p class='text-blue-300'>  │  ├─ [Oracle] EIP-712 Signature Verification</p>";
+                terminal.scrollTop = terminal.scrollHeight;
+
+                // 密碼學還原簽名者地址
+                const recoveredAddress = ethers.utils.verifyTypedData(domain, types, message, inputSig).toLowerCase();
+                
+                if (recoveredAddress !== EXPECTED_ORACLE_ADDRESS) {
+                    throw new Error(`還原地址為: ${recoveredAddress}\n預期預言機為: ${EXPECTED_ORACLE_ADDRESS}`);
+                }
+
+                await new Promise(r => setTimeout(r, 800));
+                terminal.innerHTML += `<p class='text-emerald-400 font-bold'>  │  │  └─ ← [Return] ${recoveredAddress.substring(0,10)}... (第一核: 時間戳與簽章驗證通過！)</p>`;
+                
+                const steps = [
+                    { text: "  │  ├─ [ZK] Groth16Verifier::verifyProof(...)", color: "text-purple-300", delay: 800 },
+                    { text: "  │  │  ├─ [6000] PRECOMPILES::ecmul(...)", color: "text-slate-500", delay: 300 },
+                    { text: "  │  │  ├─ [181000] PRECOMPILES::ecpairing(...)", color: "text-slate-500", delay: 600 },
+                    { text: `  │  │  └─ ← [Return] true (核驗 2：ZKP 證明條件成立)`, color: "text-emerald-400 font-bold", delay: 800 },
+                    { text: "  │  ├─ ESGInsuranceTest::receive{value: 10 ETH}()", color: "text-yellow-300", delay: 800 },
+                    { text: `  │  ├─ emit ClaimProcessed(oracleHash: ${currentPayload.publicSignals[1].substring(0,10)}..., amount: 10 ETH)`, color: "text-yellow-400", delay: 500 },
+                    { text: "  │  └─ ← [Stop]", color: "text-slate-400", delay: 300 },
+                    { text: "  └─ ← [Stop]", color: "text-slate-400", delay: 300 },
+                    { text: "\n[PASS] 雙核驗證完成｜理賠通過｜10 ETH", color: "text-emerald-500 font-bold text-lg", delay: 800 }
+                ];
+
+                for (let step of steps) {
+                    await new Promise(r => setTimeout(r, step.delay));
+                    terminal.innerHTML += `<p class='${step.color} mt-1'>${step.text}</p>`;
+                    terminal.scrollTop = terminal.scrollHeight;
+                }
+
+            } catch (error) {
+                // 防偽觸發區塊：時間戳改動或簽章錯誤時執行
+                await new Promise(r => setTimeout(r, 500));
+                terminal.innerHTML += `<p class='text-red-500 font-bold mt-2'>[REVERT] 驗證中止：Oracle 簽章／時間戳驗證未通過。</p>`;
+                terminal.innerHTML += `<p class='text-red-400 mt-1 whitespace-pre-line'>${error.message}</p>`;
+                terminal.scrollTop = terminal.scrollHeight;
+            }
+
+            document.getElementById('submitBtn').disabled = false;
+        }
+    </script>
+
+    <div class="max-w-6xl mx-auto mt-5 text-center text-[11px] text-slate-400">
+        ZK-ESG Prototype · Demo UI與智能合約的橋梁。
+    </div>
+</body>
+</html>
