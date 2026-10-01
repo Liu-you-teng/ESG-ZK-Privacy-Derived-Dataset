@@ -1,0 +1,4917 @@
+[
+  {
+    "record_id": "ESG_ZK_2024_001",
+    "raw_ban": "22662355",
+    "raw_net_emission": 149669
+  },
+  {
+    "record_id": "ESG_ZK_2024_002",
+    "raw_ban": "11820053",
+    "raw_net_emission": 22595
+  },
+  {
+    "record_id": "ESG_ZK_2024_003",
+    "raw_ban": "11384708",
+    "raw_net_emission": 345345
+  },
+  {
+    "record_id": "ESG_ZK_2024_004",
+    "raw_ban": "22099131",
+    "raw_net_emission": 44362
+  },
+  {
+    "record_id": "ESG_ZK_2024_006",
+    "raw_ban": "38119936",
+    "raw_net_emission": 42916
+  },
+  {
+    "record_id": "ESG_ZK_2024_007",
+    "raw_ban": "54796568",
+    "raw_net_emission": 28104
+  },
+  {
+    "record_id": "ESG_ZK_2024_008",
+    "raw_ban": "22474430",
+    "raw_net_emission": 12962
+  },
+  {
+    "record_id": "ESG_ZK_2024_009",
+    "raw_ban": "11384405",
+    "raw_net_emission": 51919
+  },
+  {
+    "record_id": "ESG_ZK_2024_010",
+    "raw_ban": "75280209",
+    "raw_net_emission": 23691
+  },
+  {
+    "record_id": "ESG_ZK_2024_011",
+    "raw_ban": "27763753",
+    "raw_net_emission": 15468
+  },
+  {
+    "record_id": "ESG_ZK_2024_012",
+    "raw_ban": "89392269",
+    "raw_net_emission": 16530
+  },
+  {
+    "record_id": "ESG_ZK_2024_013",
+    "raw_ban": "30974253",
+    "raw_net_emission": 79844
+  },
+  {
+    "record_id": "ESG_ZK_2024_014",
+    "raw_ban": "22099131",
+    "raw_net_emission": 202229
+  },
+  {
+    "record_id": "ESG_ZK_2024_016",
+    "raw_ban": "75370905",
+    "raw_net_emission": 84202
+  },
+  {
+    "record_id": "ESG_ZK_2024_017",
+    "raw_ban": "70848177",
+    "raw_net_emission": 38815
+  },
+  {
+    "record_id": "ESG_ZK_2024_020",
+    "raw_ban": "75280209",
+    "raw_net_emission": 405417
+  },
+  {
+    "record_id": "ESG_ZK_2024_021",
+    "raw_ban": "07568009",
+    "raw_net_emission": 29845
+  },
+  {
+    "record_id": "ESG_ZK_2024_022",
+    "raw_ban": "22522453",
+    "raw_net_emission": 66352
+  },
+  {
+    "record_id": "ESG_ZK_2024_023",
+    "raw_ban": "76027628",
+    "raw_net_emission": 62371
+  },
+  {
+    "record_id": "ESG_ZK_2024_024",
+    "raw_ban": "88187108",
+    "raw_net_emission": 10496
+  },
+  {
+    "record_id": "ESG_ZK_2024_025",
+    "raw_ban": "89406518",
+    "raw_net_emission": 217281
+  },
+  {
+    "record_id": "ESG_ZK_2024_026",
+    "raw_ban": "16130042",
+    "raw_net_emission": 45837
+  },
+  {
+    "record_id": "ESG_ZK_2024_027",
+    "raw_ban": "29058640",
+    "raw_net_emission": 90831
+  },
+  {
+    "record_id": "ESG_ZK_2024_028",
+    "raw_ban": "11384806",
+    "raw_net_emission": 50936
+  },
+  {
+    "record_id": "ESG_ZK_2024_030",
+    "raw_ban": "28438186",
+    "raw_net_emission": 36934
+  },
+  {
+    "record_id": "ESG_ZK_2024_031",
+    "raw_ban": "22099456",
+    "raw_net_emission": 50156
+  },
+  {
+    "record_id": "ESG_ZK_2024_032",
+    "raw_ban": "12800225",
+    "raw_net_emission": 126901
+  },
+  {
+    "record_id": "ESG_ZK_2024_033",
+    "raw_ban": "07435515",
+    "raw_net_emission": 237424
+  },
+  {
+    "record_id": "ESG_ZK_2024_035",
+    "raw_ban": "22266307",
+    "raw_net_emission": 5027
+  },
+  {
+    "record_id": "ESG_ZK_2024_036",
+    "raw_ban": "16130009",
+    "raw_net_emission": 17461
+  },
+  {
+    "record_id": "ESG_ZK_2024_037",
+    "raw_ban": "22822748",
+    "raw_net_emission": 77988
+  },
+  {
+    "record_id": "ESG_ZK_2024_038",
+    "raw_ban": "07220710",
+    "raw_net_emission": 21587
+  },
+  {
+    "record_id": "ESG_ZK_2024_039",
+    "raw_ban": "54389725",
+    "raw_net_emission": 6433
+  },
+  {
+    "record_id": "ESG_ZK_2024_040",
+    "raw_ban": "22099456",
+    "raw_net_emission": 162340
+  },
+  {
+    "record_id": "ESG_ZK_2024_041",
+    "raw_ban": "16130009",
+    "raw_net_emission": 38717
+  },
+  {
+    "record_id": "ESG_ZK_2024_042",
+    "raw_ban": "11914002",
+    "raw_net_emission": 158000
+  },
+  {
+    "record_id": "ESG_ZK_2024_043",
+    "raw_ban": "16450500",
+    "raw_net_emission": 223402
+  },
+  {
+    "record_id": "ESG_ZK_2024_044",
+    "raw_ban": "14001199",
+    "raw_net_emission": 109098
+  },
+  {
+    "record_id": "ESG_ZK_2024_045",
+    "raw_ban": "27790294",
+    "raw_net_emission": 41383
+  },
+  {
+    "record_id": "ESG_ZK_2024_046",
+    "raw_ban": "02750963",
+    "raw_net_emission": 1256
+  },
+  {
+    "record_id": "ESG_ZK_2024_047",
+    "raw_ban": "13079654",
+    "raw_net_emission": 19461
+  },
+  {
+    "record_id": "ESG_ZK_2024_049",
+    "raw_ban": "16082267",
+    "raw_net_emission": 40169
+  },
+  {
+    "record_id": "ESG_ZK_2024_050",
+    "raw_ban": "22101116",
+    "raw_net_emission": 54547
+  },
+  {
+    "record_id": "ESG_ZK_2024_051",
+    "raw_ban": "28113286",
+    "raw_net_emission": 16154
+  },
+  {
+    "record_id": "ESG_ZK_2024_052",
+    "raw_ban": "47217677",
+    "raw_net_emission": 339980
+  },
+  {
+    "record_id": "ESG_ZK_2024_053",
+    "raw_ban": "15395706",
+    "raw_net_emission": 399895
+  },
+  {
+    "record_id": "ESG_ZK_2024_054",
+    "raw_ban": "18770509",
+    "raw_net_emission": 8326
+  },
+  {
+    "record_id": "ESG_ZK_2024_055",
+    "raw_ban": "05637971",
+    "raw_net_emission": 37358
+  },
+  {
+    "record_id": "ESG_ZK_2024_056",
+    "raw_ban": "28438025",
+    "raw_net_emission": 36688
+  },
+  {
+    "record_id": "ESG_ZK_2024_057",
+    "raw_ban": "75470524",
+    "raw_net_emission": 121565
+  },
+  {
+    "record_id": "ESG_ZK_2024_058",
+    "raw_ban": "23531178",
+    "raw_net_emission": 45724
+  },
+  {
+    "record_id": "ESG_ZK_2024_059",
+    "raw_ban": "89390656",
+    "raw_net_emission": 425324
+  },
+  {
+    "record_id": "ESG_ZK_2024_060",
+    "raw_ban": "24001900",
+    "raw_net_emission": 35179
+  },
+  {
+    "record_id": "ESG_ZK_2024_061",
+    "raw_ban": "84149786",
+    "raw_net_emission": 10774
+  },
+  {
+    "record_id": "ESG_ZK_2024_062",
+    "raw_ban": "22522453",
+    "raw_net_emission": 25898
+  },
+  {
+    "record_id": "ESG_ZK_2024_063",
+    "raw_ban": "03084741",
+    "raw_net_emission": 154590
+  },
+  {
+    "record_id": "ESG_ZK_2024_064",
+    "raw_ban": "12800225",
+    "raw_net_emission": 366627
+  },
+  {
+    "record_id": "ESG_ZK_2024_065",
+    "raw_ban": "07663290",
+    "raw_net_emission": 89818
+  },
+  {
+    "record_id": "ESG_ZK_2024_066",
+    "raw_ban": "91004618",
+    "raw_net_emission": 16032
+  },
+  {
+    "record_id": "ESG_ZK_2024_067",
+    "raw_ban": "22099131",
+    "raw_net_emission": 283960
+  },
+  {
+    "record_id": "ESG_ZK_2024_068",
+    "raw_ban": "12205020",
+    "raw_net_emission": 28255
+  },
+  {
+    "record_id": "ESG_ZK_2024_069",
+    "raw_ban": "11914002",
+    "raw_net_emission": 94194
+  },
+  {
+    "record_id": "ESG_ZK_2024_070",
+    "raw_ban": "22480876",
+    "raw_net_emission": 68630
+  },
+  {
+    "record_id": "ESG_ZK_2024_073",
+    "raw_ban": "35192807",
+    "raw_net_emission": 17713
+  },
+  {
+    "record_id": "ESG_ZK_2024_074",
+    "raw_ban": "20939460",
+    "raw_net_emission": 52195
+  },
+  {
+    "record_id": "ESG_ZK_2024_075",
+    "raw_ban": "75339004",
+    "raw_net_emission": 29902
+  },
+  {
+    "record_id": "ESG_ZK_2024_076",
+    "raw_ban": "39054405",
+    "raw_net_emission": 70470
+  },
+  {
+    "record_id": "ESG_ZK_2024_077",
+    "raw_ban": "76027628",
+    "raw_net_emission": 32175
+  },
+  {
+    "record_id": "ESG_ZK_2024_078",
+    "raw_ban": "22480876",
+    "raw_net_emission": 35491
+  },
+  {
+    "record_id": "ESG_ZK_2024_079",
+    "raw_ban": "30974253",
+    "raw_net_emission": 81254
+  },
+  {
+    "record_id": "ESG_ZK_2024_081",
+    "raw_ban": "80353271",
+    "raw_net_emission": 422363
+  },
+  {
+    "record_id": "ESG_ZK_2024_082",
+    "raw_ban": "22507241",
+    "raw_net_emission": 220809
+  },
+  {
+    "record_id": "ESG_ZK_2024_083",
+    "raw_ban": "53170263",
+    "raw_net_emission": 43593
+  },
+  {
+    "record_id": "ESG_ZK_2024_084",
+    "raw_ban": "23218022",
+    "raw_net_emission": 35327
+  },
+  {
+    "record_id": "ESG_ZK_2024_085",
+    "raw_ban": "12617727",
+    "raw_net_emission": 25521
+  },
+  {
+    "record_id": "ESG_ZK_2024_086",
+    "raw_ban": "46007218",
+    "raw_net_emission": 43125
+  },
+  {
+    "record_id": "ESG_ZK_2024_087",
+    "raw_ban": "19084015",
+    "raw_net_emission": 155129
+  },
+  {
+    "record_id": "ESG_ZK_2024_088",
+    "raw_ban": "22101116",
+    "raw_net_emission": 51593
+  },
+  {
+    "record_id": "ESG_ZK_2024_089",
+    "raw_ban": "35878589",
+    "raw_net_emission": 17700
+  },
+  {
+    "record_id": "ESG_ZK_2024_091",
+    "raw_ban": "23503047",
+    "raw_net_emission": 32750
+  },
+  {
+    "record_id": "ESG_ZK_2024_092",
+    "raw_ban": "22822281",
+    "raw_net_emission": 23882
+  },
+  {
+    "record_id": "ESG_ZK_2024_093",
+    "raw_ban": "07663290",
+    "raw_net_emission": 19985
+  },
+  {
+    "record_id": "ESG_ZK_2024_095",
+    "raw_ban": "70552666",
+    "raw_net_emission": 17594
+  },
+  {
+    "record_id": "ESG_ZK_2024_096",
+    "raw_ban": "22327037",
+    "raw_net_emission": 40984
+  },
+  {
+    "record_id": "ESG_ZK_2024_097",
+    "raw_ban": "76027628",
+    "raw_net_emission": 58797
+  },
+  {
+    "record_id": "ESG_ZK_2024_098",
+    "raw_ban": "22099456",
+    "raw_net_emission": 46026
+  },
+  {
+    "record_id": "ESG_ZK_2024_099",
+    "raw_ban": "84980915",
+    "raw_net_emission": 36909
+  },
+  {
+    "record_id": "ESG_ZK_2024_100",
+    "raw_ban": "22318678",
+    "raw_net_emission": 291063
+  },
+  {
+    "record_id": "ESG_ZK_2024_101",
+    "raw_ban": "46007218",
+    "raw_net_emission": 42381
+  },
+  {
+    "record_id": "ESG_ZK_2024_102",
+    "raw_ban": "23313356",
+    "raw_net_emission": 19740
+  },
+  {
+    "record_id": "ESG_ZK_2024_103",
+    "raw_ban": "24004006",
+    "raw_net_emission": 32414
+  },
+  {
+    "record_id": "ESG_ZK_2024_104",
+    "raw_ban": "11914002",
+    "raw_net_emission": 138103
+  },
+  {
+    "record_id": "ESG_ZK_2024_105",
+    "raw_ban": "11912102",
+    "raw_net_emission": 22017
+  },
+  {
+    "record_id": "ESG_ZK_2024_106",
+    "raw_ban": "23535435",
+    "raw_net_emission": 27779
+  },
+  {
+    "record_id": "ESG_ZK_2024_107",
+    "raw_ban": "80601119",
+    "raw_net_emission": 25647
+  },
+  {
+    "record_id": "ESG_ZK_2024_108",
+    "raw_ban": "75370905",
+    "raw_net_emission": 88069
+  },
+  {
+    "record_id": "ESG_ZK_2024_109",
+    "raw_ban": "28112667",
+    "raw_net_emission": 295609
+  },
+  {
+    "record_id": "ESG_ZK_2024_111",
+    "raw_ban": "89002500",
+    "raw_net_emission": 19280
+  },
+  {
+    "record_id": "ESG_ZK_2024_112",
+    "raw_ban": "47217677",
+    "raw_net_emission": 89660
+  },
+  {
+    "record_id": "ESG_ZK_2024_113",
+    "raw_ban": "16130042",
+    "raw_net_emission": 35406
+  },
+  {
+    "record_id": "ESG_ZK_2024_114",
+    "raw_ban": "80354671",
+    "raw_net_emission": 237749
+  },
+  {
+    "record_id": "ESG_ZK_2024_115",
+    "raw_ban": "22099131",
+    "raw_net_emission": 134758
+  },
+  {
+    "record_id": "ESG_ZK_2024_116",
+    "raw_ban": "84149358",
+    "raw_net_emission": 157333
+  },
+  {
+    "record_id": "ESG_ZK_2024_117",
+    "raw_ban": "22099131",
+    "raw_net_emission": 274919
+  },
+  {
+    "record_id": "ESG_ZK_2024_118",
+    "raw_ban": "75370905",
+    "raw_net_emission": 350096
+  },
+  {
+    "record_id": "ESG_ZK_2024_120",
+    "raw_ban": "22099131",
+    "raw_net_emission": 194991
+  },
+  {
+    "record_id": "ESG_ZK_2024_121",
+    "raw_ban": "28098406",
+    "raw_net_emission": 150647
+  },
+  {
+    "record_id": "ESG_ZK_2024_122",
+    "raw_ban": "22099548",
+    "raw_net_emission": 143192
+  },
+  {
+    "record_id": "ESG_ZK_2024_123",
+    "raw_ban": "16441469",
+    "raw_net_emission": 23685
+  },
+  {
+    "record_id": "ESG_ZK_2024_124",
+    "raw_ban": "22099131",
+    "raw_net_emission": 301402
+  },
+  {
+    "record_id": "ESG_ZK_2024_125",
+    "raw_ban": "03522600",
+    "raw_net_emission": 12418
+  },
+  {
+    "record_id": "ESG_ZK_2024_126",
+    "raw_ban": "33955322",
+    "raw_net_emission": 138193
+  },
+  {
+    "record_id": "ESG_ZK_2024_128",
+    "raw_ban": "16082267",
+    "raw_net_emission": 21865
+  },
+  {
+    "record_id": "ESG_ZK_2024_129",
+    "raw_ban": "11384708",
+    "raw_net_emission": 56683
+  },
+  {
+    "record_id": "ESG_ZK_2024_130",
+    "raw_ban": "33085508",
+    "raw_net_emission": 98557
+  },
+  {
+    "record_id": "ESG_ZK_2024_132",
+    "raw_ban": "28997300",
+    "raw_net_emission": 30992
+  },
+  {
+    "record_id": "ESG_ZK_2024_133",
+    "raw_ban": "34202841",
+    "raw_net_emission": 247626
+  },
+  {
+    "record_id": "ESG_ZK_2024_135",
+    "raw_ban": "27790294",
+    "raw_net_emission": 38798
+  },
+  {
+    "record_id": "ESG_ZK_2024_136",
+    "raw_ban": "75708007",
+    "raw_net_emission": 157604
+  },
+  {
+    "record_id": "ESG_ZK_2024_137",
+    "raw_ban": "22099456",
+    "raw_net_emission": 208415
+  },
+  {
+    "record_id": "ESG_ZK_2024_138",
+    "raw_ban": "22327037",
+    "raw_net_emission": 57637
+  },
+  {
+    "record_id": "ESG_ZK_2024_139",
+    "raw_ban": "27208480",
+    "raw_net_emission": 165588
+  },
+  {
+    "record_id": "ESG_ZK_2024_140",
+    "raw_ban": "84149786",
+    "raw_net_emission": 29914
+  },
+  {
+    "record_id": "ESG_ZK_2024_141",
+    "raw_ban": "73686632",
+    "raw_net_emission": 58307
+  },
+  {
+    "record_id": "ESG_ZK_2024_142",
+    "raw_ban": "36550632",
+    "raw_net_emission": 30908
+  },
+  {
+    "record_id": "ESG_ZK_2024_143",
+    "raw_ban": "22099548",
+    "raw_net_emission": 202653
+  },
+  {
+    "record_id": "ESG_ZK_2024_144",
+    "raw_ban": "79254702",
+    "raw_net_emission": 269545
+  },
+  {
+    "record_id": "ESG_ZK_2024_146",
+    "raw_ban": "33085508",
+    "raw_net_emission": 18127
+  },
+  {
+    "record_id": "ESG_ZK_2024_147",
+    "raw_ban": "12800225",
+    "raw_net_emission": 111924
+  },
+  {
+    "record_id": "ESG_ZK_2024_149",
+    "raw_ban": "05637971",
+    "raw_net_emission": 37956
+  },
+  {
+    "record_id": "ESG_ZK_2024_150",
+    "raw_ban": "23535435",
+    "raw_net_emission": 40016
+  },
+  {
+    "record_id": "ESG_ZK_2024_151",
+    "raw_ban": "35082604",
+    "raw_net_emission": 69774
+  },
+  {
+    "record_id": "ESG_ZK_2024_152",
+    "raw_ban": "86691377",
+    "raw_net_emission": 21425
+  },
+  {
+    "record_id": "ESG_ZK_2024_153",
+    "raw_ban": "47109348",
+    "raw_net_emission": 97152
+  },
+  {
+    "record_id": "ESG_ZK_2024_155",
+    "raw_ban": "22522453",
+    "raw_net_emission": 51377
+  },
+  {
+    "record_id": "ESG_ZK_2024_156",
+    "raw_ban": "49701774",
+    "raw_net_emission": 75431
+  },
+  {
+    "record_id": "ESG_ZK_2024_157",
+    "raw_ban": "28112667",
+    "raw_net_emission": 154365
+  },
+  {
+    "record_id": "ESG_ZK_2024_159",
+    "raw_ban": "34175598",
+    "raw_net_emission": 13250
+  },
+  {
+    "record_id": "ESG_ZK_2024_160",
+    "raw_ban": "11384708",
+    "raw_net_emission": 384934
+  },
+  {
+    "record_id": "ESG_ZK_2024_161",
+    "raw_ban": "80601119",
+    "raw_net_emission": 6244
+  },
+  {
+    "record_id": "ESG_ZK_2024_162",
+    "raw_ban": "22663571",
+    "raw_net_emission": 44850
+  },
+  {
+    "record_id": "ESG_ZK_2024_163",
+    "raw_ban": "43295237",
+    "raw_net_emission": 20068
+  },
+  {
+    "record_id": "ESG_ZK_2024_164",
+    "raw_ban": "55991080",
+    "raw_net_emission": 205514
+  },
+  {
+    "record_id": "ESG_ZK_2024_165",
+    "raw_ban": "22360437",
+    "raw_net_emission": 18489
+  },
+  {
+    "record_id": "ESG_ZK_2024_166",
+    "raw_ban": "03084741",
+    "raw_net_emission": 27649
+  },
+  {
+    "record_id": "ESG_ZK_2024_167",
+    "raw_ban": "22327037",
+    "raw_net_emission": 41270
+  },
+  {
+    "record_id": "ESG_ZK_2024_168",
+    "raw_ban": "29058640",
+    "raw_net_emission": 72864
+  },
+  {
+    "record_id": "ESG_ZK_2024_169",
+    "raw_ban": "28112667",
+    "raw_net_emission": 89766
+  },
+  {
+    "record_id": "ESG_ZK_2024_170",
+    "raw_ban": "75280209",
+    "raw_net_emission": 427298
+  },
+  {
+    "record_id": "ESG_ZK_2024_171",
+    "raw_ban": "03084741",
+    "raw_net_emission": 19628
+  },
+  {
+    "record_id": "ESG_ZK_2024_172",
+    "raw_ban": "12233428",
+    "raw_net_emission": 40410
+  },
+  {
+    "record_id": "ESG_ZK_2024_173",
+    "raw_ban": "45018531",
+    "raw_net_emission": 15844
+  },
+  {
+    "record_id": "ESG_ZK_2024_174",
+    "raw_ban": "22100242",
+    "raw_net_emission": 38618
+  },
+  {
+    "record_id": "ESG_ZK_2024_175",
+    "raw_ban": "28112667",
+    "raw_net_emission": 84312
+  },
+  {
+    "record_id": "ESG_ZK_2024_176",
+    "raw_ban": "68387705",
+    "raw_net_emission": 107026
+  },
+  {
+    "record_id": "ESG_ZK_2024_177",
+    "raw_ban": "55991080",
+    "raw_net_emission": 89477
+  },
+  {
+    "record_id": "ESG_ZK_2024_179",
+    "raw_ban": "03795904",
+    "raw_net_emission": 32802
+  },
+  {
+    "record_id": "ESG_ZK_2024_180",
+    "raw_ban": "12800225",
+    "raw_net_emission": 424731
+  },
+  {
+    "record_id": "ESG_ZK_2024_181",
+    "raw_ban": "75280209",
+    "raw_net_emission": 44132
+  },
+  {
+    "record_id": "ESG_ZK_2024_182",
+    "raw_ban": "16638110",
+    "raw_net_emission": 25641
+  },
+  {
+    "record_id": "ESG_ZK_2024_183",
+    "raw_ban": "20747385",
+    "raw_net_emission": 102966
+  },
+  {
+    "record_id": "ESG_ZK_2024_184",
+    "raw_ban": "12209807",
+    "raw_net_emission": 16691
+  },
+  {
+    "record_id": "ESG_ZK_2024_185",
+    "raw_ban": "22099131",
+    "raw_net_emission": 418863
+  },
+  {
+    "record_id": "ESG_ZK_2024_186",
+    "raw_ban": "86685142",
+    "raw_net_emission": 364502
+  },
+  {
+    "record_id": "ESG_ZK_2024_187",
+    "raw_ban": "84252697",
+    "raw_net_emission": 53915
+  },
+  {
+    "record_id": "ESG_ZK_2024_188",
+    "raw_ban": "75947936",
+    "raw_net_emission": 21432
+  },
+  {
+    "record_id": "ESG_ZK_2024_189",
+    "raw_ban": "22099131",
+    "raw_net_emission": 60781
+  },
+  {
+    "record_id": "ESG_ZK_2024_190",
+    "raw_ban": "86980046",
+    "raw_net_emission": 16347
+  },
+  {
+    "record_id": "ESG_ZK_2024_191",
+    "raw_ban": "75470524",
+    "raw_net_emission": 53566
+  },
+  {
+    "record_id": "ESG_ZK_2024_192",
+    "raw_ban": "76027628",
+    "raw_net_emission": 10910
+  },
+  {
+    "record_id": "ESG_ZK_2024_193",
+    "raw_ban": "84149456",
+    "raw_net_emission": 22205
+  },
+  {
+    "record_id": "ESG_ZK_2024_194",
+    "raw_ban": "16441469",
+    "raw_net_emission": 21906
+  },
+  {
+    "record_id": "ESG_ZK_2024_197",
+    "raw_ban": "04748660",
+    "raw_net_emission": 36629
+  },
+  {
+    "record_id": "ESG_ZK_2024_198",
+    "raw_ban": "14057995",
+    "raw_net_emission": 338759
+  },
+  {
+    "record_id": "ESG_ZK_2024_199",
+    "raw_ban": "76026851",
+    "raw_net_emission": 37285
+  },
+  {
+    "record_id": "ESG_ZK_2024_200",
+    "raw_ban": "70776899",
+    "raw_net_emission": 27466
+  },
+  {
+    "record_id": "ESG_ZK_2024_202",
+    "raw_ban": "16446128",
+    "raw_net_emission": 38545
+  },
+  {
+    "record_id": "ESG_ZK_2024_203",
+    "raw_ban": "22099110",
+    "raw_net_emission": 110042
+  },
+  {
+    "record_id": "ESG_ZK_2024_204",
+    "raw_ban": "38033305",
+    "raw_net_emission": 56129
+  },
+  {
+    "record_id": "ESG_ZK_2024_205",
+    "raw_ban": "80601119",
+    "raw_net_emission": 18307
+  },
+  {
+    "record_id": "ESG_ZK_2024_206",
+    "raw_ban": "07066907",
+    "raw_net_emission": 344062
+  },
+  {
+    "record_id": "ESG_ZK_2024_207",
+    "raw_ban": "22099131",
+    "raw_net_emission": 101619
+  },
+  {
+    "record_id": "ESG_ZK_2024_208",
+    "raw_ban": "22266307",
+    "raw_net_emission": 15257
+  },
+  {
+    "record_id": "ESG_ZK_2024_209",
+    "raw_ban": "22663571",
+    "raw_net_emission": 39109
+  },
+  {
+    "record_id": "ESG_ZK_2024_210",
+    "raw_ban": "30955404",
+    "raw_net_emission": 83185
+  },
+  {
+    "record_id": "ESG_ZK_2024_211",
+    "raw_ban": "84149884",
+    "raw_net_emission": 13231
+  },
+  {
+    "record_id": "ESG_ZK_2024_212",
+    "raw_ban": "73252657",
+    "raw_net_emission": 71339
+  },
+  {
+    "record_id": "ESG_ZK_2024_213",
+    "raw_ban": "05126366",
+    "raw_net_emission": 69974
+  },
+  {
+    "record_id": "ESG_ZK_2024_214",
+    "raw_ban": "12800225",
+    "raw_net_emission": 71346
+  },
+  {
+    "record_id": "ESG_ZK_2024_215",
+    "raw_ban": "70815339",
+    "raw_net_emission": 17032
+  },
+  {
+    "record_id": "ESG_ZK_2024_216",
+    "raw_ban": "43295237",
+    "raw_net_emission": 35350
+  },
+  {
+    "record_id": "ESG_ZK_2024_217",
+    "raw_ban": "22636630",
+    "raw_net_emission": 22165
+  },
+  {
+    "record_id": "ESG_ZK_2024_218",
+    "raw_ban": "70751779",
+    "raw_net_emission": 24210
+  },
+  {
+    "record_id": "ESG_ZK_2024_219",
+    "raw_ban": "55625676",
+    "raw_net_emission": 8586
+  },
+  {
+    "record_id": "ESG_ZK_2024_220",
+    "raw_ban": "16447610",
+    "raw_net_emission": 44347
+  },
+  {
+    "record_id": "ESG_ZK_2024_221",
+    "raw_ban": "11893409",
+    "raw_net_emission": 34581
+  },
+  {
+    "record_id": "ESG_ZK_2024_222",
+    "raw_ban": "61932639",
+    "raw_net_emission": 95901
+  },
+  {
+    "record_id": "ESG_ZK_2024_223",
+    "raw_ban": "84149358",
+    "raw_net_emission": 166451
+  },
+  {
+    "record_id": "ESG_ZK_2024_224",
+    "raw_ban": "23827741",
+    "raw_net_emission": 75684
+  },
+  {
+    "record_id": "ESG_ZK_2024_225",
+    "raw_ban": "70848556",
+    "raw_net_emission": 39267
+  },
+  {
+    "record_id": "ESG_ZK_2024_226",
+    "raw_ban": "84149786",
+    "raw_net_emission": 11510
+  },
+  {
+    "record_id": "ESG_ZK_2024_228",
+    "raw_ban": "70785139",
+    "raw_net_emission": 63242
+  },
+  {
+    "record_id": "ESG_ZK_2024_229",
+    "raw_ban": "11072509",
+    "raw_net_emission": 175075
+  },
+  {
+    "record_id": "ESG_ZK_2024_231",
+    "raw_ban": "11917107",
+    "raw_net_emission": 119942
+  },
+  {
+    "record_id": "ESG_ZK_2024_232",
+    "raw_ban": "76027628",
+    "raw_net_emission": 8115
+  },
+  {
+    "record_id": "ESG_ZK_2024_233",
+    "raw_ban": "28230046",
+    "raw_net_emission": 32057
+  },
+  {
+    "record_id": "ESG_ZK_2024_234",
+    "raw_ban": "11686106",
+    "raw_net_emission": 85547
+  },
+  {
+    "record_id": "ESG_ZK_2024_235",
+    "raw_ban": "12691423",
+    "raw_net_emission": 61063
+  },
+  {
+    "record_id": "ESG_ZK_2024_236",
+    "raw_ban": "22099131",
+    "raw_net_emission": 333366
+  },
+  {
+    "record_id": "ESG_ZK_2024_237",
+    "raw_ban": "03795904",
+    "raw_net_emission": 165106
+  },
+  {
+    "record_id": "ESG_ZK_2024_238",
+    "raw_ban": "23503047",
+    "raw_net_emission": 29973
+  },
+  {
+    "record_id": "ESG_ZK_2024_239",
+    "raw_ban": "03794905",
+    "raw_net_emission": 58406
+  },
+  {
+    "record_id": "ESG_ZK_2024_240",
+    "raw_ban": "68919301",
+    "raw_net_emission": 72630
+  },
+  {
+    "record_id": "ESG_ZK_2024_241",
+    "raw_ban": "11833698",
+    "raw_net_emission": 24417
+  },
+  {
+    "record_id": "ESG_ZK_2024_242",
+    "raw_ban": "84149358",
+    "raw_net_emission": 253973
+  },
+  {
+    "record_id": "ESG_ZK_2024_243",
+    "raw_ban": "28115046",
+    "raw_net_emission": 25228
+  },
+  {
+    "record_id": "ESG_ZK_2024_246",
+    "raw_ban": "16631664",
+    "raw_net_emission": 38667
+  },
+  {
+    "record_id": "ESG_ZK_2024_247",
+    "raw_ban": "51158518",
+    "raw_net_emission": 4537
+  },
+  {
+    "record_id": "ESG_ZK_2024_248",
+    "raw_ban": "55991080",
+    "raw_net_emission": 22259
+  },
+  {
+    "record_id": "ESG_ZK_2024_249",
+    "raw_ban": "18770509",
+    "raw_net_emission": 17910
+  },
+  {
+    "record_id": "ESG_ZK_2024_250",
+    "raw_ban": "22099131",
+    "raw_net_emission": 378409
+  },
+  {
+    "record_id": "ESG_ZK_2024_251",
+    "raw_ban": "76027628",
+    "raw_net_emission": 30984
+  },
+  {
+    "record_id": "ESG_ZK_2024_253",
+    "raw_ban": "55991080",
+    "raw_net_emission": 78501
+  },
+  {
+    "record_id": "ESG_ZK_2024_255",
+    "raw_ban": "69905810",
+    "raw_net_emission": 6240
+  },
+  {
+    "record_id": "ESG_ZK_2024_256",
+    "raw_ban": "79254702",
+    "raw_net_emission": 246920
+  },
+  {
+    "record_id": "ESG_ZK_2024_257",
+    "raw_ban": "35412204",
+    "raw_net_emission": 75846
+  },
+  {
+    "record_id": "ESG_ZK_2024_258",
+    "raw_ban": "97173920",
+    "raw_net_emission": 53723
+  },
+  {
+    "record_id": "ESG_ZK_2024_259",
+    "raw_ban": "22099131",
+    "raw_net_emission": 422008
+  },
+  {
+    "record_id": "ESG_ZK_2024_261",
+    "raw_ban": "28114454",
+    "raw_net_emission": 656
+  },
+  {
+    "record_id": "ESG_ZK_2024_262",
+    "raw_ban": "27366467",
+    "raw_net_emission": 55631
+  },
+  {
+    "record_id": "ESG_ZK_2024_264",
+    "raw_ban": "11820053",
+    "raw_net_emission": 24188
+  },
+  {
+    "record_id": "ESG_ZK_2024_265",
+    "raw_ban": "03707901",
+    "raw_net_emission": 61221
+  },
+  {
+    "record_id": "ESG_ZK_2024_267",
+    "raw_ban": "84149358",
+    "raw_net_emission": 41440
+  },
+  {
+    "record_id": "ESG_ZK_2024_268",
+    "raw_ban": "07014916",
+    "raw_net_emission": 29252
+  },
+  {
+    "record_id": "ESG_ZK_2024_269",
+    "raw_ban": "04312878",
+    "raw_net_emission": 69253
+  },
+  {
+    "record_id": "ESG_ZK_2024_270",
+    "raw_ban": "33955322",
+    "raw_net_emission": 83145
+  },
+  {
+    "record_id": "ESG_ZK_2024_271",
+    "raw_ban": "97140061",
+    "raw_net_emission": 16304
+  },
+  {
+    "record_id": "ESG_ZK_2024_272",
+    "raw_ban": "16082267",
+    "raw_net_emission": 67248
+  },
+  {
+    "record_id": "ESG_ZK_2024_273",
+    "raw_ban": "07435515",
+    "raw_net_emission": 39051
+  },
+  {
+    "record_id": "ESG_ZK_2024_274",
+    "raw_ban": "16130042",
+    "raw_net_emission": 69388
+  },
+  {
+    "record_id": "ESG_ZK_2024_275",
+    "raw_ban": "85978401",
+    "raw_net_emission": 74152
+  },
+  {
+    "record_id": "ESG_ZK_2024_276",
+    "raw_ban": "47217677",
+    "raw_net_emission": 427703
+  },
+  {
+    "record_id": "ESG_ZK_2024_278",
+    "raw_ban": "03795101",
+    "raw_net_emission": 418763
+  },
+  {
+    "record_id": "ESG_ZK_2024_279",
+    "raw_ban": "86120031",
+    "raw_net_emission": 133449
+  },
+  {
+    "record_id": "ESG_ZK_2024_280",
+    "raw_ban": "04401392",
+    "raw_net_emission": 53549
+  },
+  {
+    "record_id": "ESG_ZK_2024_281",
+    "raw_ban": "54389725",
+    "raw_net_emission": 4603
+  },
+  {
+    "record_id": "ESG_ZK_2024_283",
+    "raw_ban": "23531178",
+    "raw_net_emission": 37130
+  },
+  {
+    "record_id": "ESG_ZK_2024_285",
+    "raw_ban": "23535435",
+    "raw_net_emission": 34720
+  },
+  {
+    "record_id": "ESG_ZK_2024_286",
+    "raw_ban": "89004161",
+    "raw_net_emission": 33537
+  },
+  {
+    "record_id": "ESG_ZK_2024_287",
+    "raw_ban": "35878589",
+    "raw_net_emission": 18711
+  },
+  {
+    "record_id": "ESG_ZK_2024_288",
+    "raw_ban": "28730458",
+    "raw_net_emission": 36185
+  },
+  {
+    "record_id": "ESG_ZK_2024_289",
+    "raw_ban": "22318516",
+    "raw_net_emission": 122896
+  },
+  {
+    "record_id": "ESG_ZK_2024_290",
+    "raw_ban": "88121697",
+    "raw_net_emission": 47796
+  },
+  {
+    "record_id": "ESG_ZK_2024_291",
+    "raw_ban": "80601119",
+    "raw_net_emission": 6323
+  },
+  {
+    "record_id": "ESG_ZK_2024_292",
+    "raw_ban": "04401392",
+    "raw_net_emission": 38307
+  },
+  {
+    "record_id": "ESG_ZK_2024_293",
+    "raw_ban": "11914002",
+    "raw_net_emission": 88556
+  },
+  {
+    "record_id": "ESG_ZK_2024_294",
+    "raw_ban": "11072509",
+    "raw_net_emission": 97329
+  },
+  {
+    "record_id": "ESG_ZK_2024_295",
+    "raw_ban": "70785139",
+    "raw_net_emission": 22285
+  },
+  {
+    "record_id": "ESG_ZK_2024_296",
+    "raw_ban": "59504506",
+    "raw_net_emission": 45344
+  },
+  {
+    "record_id": "ESG_ZK_2024_297",
+    "raw_ban": "89939090",
+    "raw_net_emission": 25614
+  },
+  {
+    "record_id": "ESG_ZK_2024_298",
+    "raw_ban": "75370905",
+    "raw_net_emission": 22590
+  },
+  {
+    "record_id": "ESG_ZK_2024_300",
+    "raw_ban": "23221384",
+    "raw_net_emission": 75054
+  },
+  {
+    "record_id": "ESG_ZK_2024_301",
+    "raw_ban": "12691423",
+    "raw_net_emission": 27001
+  },
+  {
+    "record_id": "ESG_ZK_2024_302",
+    "raw_ban": "22099131",
+    "raw_net_emission": 135127
+  },
+  {
+    "record_id": "ESG_ZK_2024_303",
+    "raw_ban": "22099131",
+    "raw_net_emission": 211680
+  },
+  {
+    "record_id": "ESG_ZK_2024_304",
+    "raw_ban": "75970680",
+    "raw_net_emission": 27707
+  },
+  {
+    "record_id": "ESG_ZK_2024_305",
+    "raw_ban": "04695235",
+    "raw_net_emission": 29260
+  },
+  {
+    "record_id": "ESG_ZK_2024_306",
+    "raw_ban": "70584724",
+    "raw_net_emission": 104046
+  },
+  {
+    "record_id": "ESG_ZK_2024_308",
+    "raw_ban": "85803825",
+    "raw_net_emission": 82790
+  },
+  {
+    "record_id": "ESG_ZK_2024_309",
+    "raw_ban": "53372182",
+    "raw_net_emission": 15753
+  },
+  {
+    "record_id": "ESG_ZK_2024_310",
+    "raw_ban": "86119908",
+    "raw_net_emission": 26237
+  },
+  {
+    "record_id": "ESG_ZK_2024_311",
+    "raw_ban": "11384708",
+    "raw_net_emission": 79368
+  },
+  {
+    "record_id": "ESG_ZK_2024_312",
+    "raw_ban": "43295237",
+    "raw_net_emission": 15280
+  },
+  {
+    "record_id": "ESG_ZK_2024_313",
+    "raw_ban": "76027628",
+    "raw_net_emission": 34757
+  },
+  {
+    "record_id": "ESG_ZK_2024_314",
+    "raw_ban": "52264848",
+    "raw_net_emission": 22539
+  },
+  {
+    "record_id": "ESG_ZK_2024_315",
+    "raw_ban": "16741846",
+    "raw_net_emission": 30796
+  },
+  {
+    "record_id": "ESG_ZK_2024_316",
+    "raw_ban": "89004161",
+    "raw_net_emission": 27500
+  },
+  {
+    "record_id": "ESG_ZK_2024_317",
+    "raw_ban": "16096804",
+    "raw_net_emission": 57435
+  },
+  {
+    "record_id": "ESG_ZK_2024_318",
+    "raw_ban": "89939090",
+    "raw_net_emission": 34158
+  },
+  {
+    "record_id": "ESG_ZK_2024_319",
+    "raw_ban": "80354671",
+    "raw_net_emission": 346944
+  },
+  {
+    "record_id": "ESG_ZK_2024_320",
+    "raw_ban": "03795904",
+    "raw_net_emission": 190936
+  },
+  {
+    "record_id": "ESG_ZK_2024_321",
+    "raw_ban": "22100242",
+    "raw_net_emission": 56928
+  },
+  {
+    "record_id": "ESG_ZK_2024_322",
+    "raw_ban": "59504506",
+    "raw_net_emission": 22202
+  },
+  {
+    "record_id": "ESG_ZK_2024_323",
+    "raw_ban": "47255947",
+    "raw_net_emission": 24471
+  },
+  {
+    "record_id": "ESG_ZK_2024_324",
+    "raw_ban": "11914002",
+    "raw_net_emission": 91418
+  },
+  {
+    "record_id": "ESG_ZK_2024_325",
+    "raw_ban": "22318678",
+    "raw_net_emission": 0
+  },
+  {
+    "record_id": "ESG_ZK_2024_326",
+    "raw_ban": "70785139",
+    "raw_net_emission": 81784
+  },
+  {
+    "record_id": "ESG_ZK_2024_327",
+    "raw_ban": "86119908",
+    "raw_net_emission": 29621
+  },
+  {
+    "record_id": "ESG_ZK_2024_328",
+    "raw_ban": "55991080",
+    "raw_net_emission": 39502
+  },
+  {
+    "record_id": "ESG_ZK_2024_329",
+    "raw_ban": "70752257",
+    "raw_net_emission": 42100
+  },
+  {
+    "record_id": "ESG_ZK_2024_330",
+    "raw_ban": "69905810",
+    "raw_net_emission": 4955
+  },
+  {
+    "record_id": "ESG_ZK_2024_331",
+    "raw_ban": "23313356",
+    "raw_net_emission": 20521
+  },
+  {
+    "record_id": "ESG_ZK_2024_332",
+    "raw_ban": "12800225",
+    "raw_net_emission": 137744
+  },
+  {
+    "record_id": "ESG_ZK_2024_333",
+    "raw_ban": "47217677",
+    "raw_net_emission": 73812
+  },
+  {
+    "record_id": "ESG_ZK_2024_334",
+    "raw_ban": "22474430",
+    "raw_net_emission": 13874
+  },
+  {
+    "record_id": "ESG_ZK_2024_335",
+    "raw_ban": "22100242",
+    "raw_net_emission": 47656
+  },
+  {
+    "record_id": "ESG_ZK_2024_336",
+    "raw_ban": "12529007",
+    "raw_net_emission": 27770
+  },
+  {
+    "record_id": "ESG_ZK_2024_337",
+    "raw_ban": "22822281",
+    "raw_net_emission": 22466
+  },
+  {
+    "record_id": "ESG_ZK_2024_338",
+    "raw_ban": "47217677",
+    "raw_net_emission": 94036
+  },
+  {
+    "record_id": "ESG_ZK_2024_339",
+    "raw_ban": "57002416",
+    "raw_net_emission": 14943
+  },
+  {
+    "record_id": "ESG_ZK_2024_340",
+    "raw_ban": "22522453",
+    "raw_net_emission": 70999
+  },
+  {
+    "record_id": "ESG_ZK_2024_341",
+    "raw_ban": "11072509",
+    "raw_net_emission": 82944
+  },
+  {
+    "record_id": "ESG_ZK_2024_342",
+    "raw_ban": "75708007",
+    "raw_net_emission": 259013
+  },
+  {
+    "record_id": "ESG_ZK_2024_343",
+    "raw_ban": "23535435",
+    "raw_net_emission": 25034
+  },
+  {
+    "record_id": "ESG_ZK_2024_344",
+    "raw_ban": "22853994",
+    "raw_net_emission": 71560
+  },
+  {
+    "record_id": "ESG_ZK_2024_345",
+    "raw_ban": "28518076",
+    "raw_net_emission": 318209
+  },
+  {
+    "record_id": "ESG_ZK_2024_346",
+    "raw_ban": "34263157",
+    "raw_net_emission": 30387
+  },
+  {
+    "record_id": "ESG_ZK_2024_347",
+    "raw_ban": "89406518",
+    "raw_net_emission": 62468
+  },
+  {
+    "record_id": "ESG_ZK_2024_348",
+    "raw_ban": "42818882",
+    "raw_net_emission": 215937
+  },
+  {
+    "record_id": "ESG_ZK_2024_350",
+    "raw_ban": "12800225",
+    "raw_net_emission": 454904
+  },
+  {
+    "record_id": "ESG_ZK_2024_351",
+    "raw_ban": "04388145",
+    "raw_net_emission": 341827
+  },
+  {
+    "record_id": "ESG_ZK_2024_352",
+    "raw_ban": "76027628",
+    "raw_net_emission": 43610
+  },
+  {
+    "record_id": "ESG_ZK_2024_353",
+    "raw_ban": "86685142",
+    "raw_net_emission": 332170
+  },
+  {
+    "record_id": "ESG_ZK_2024_354",
+    "raw_ban": "16130042",
+    "raw_net_emission": 22703
+  },
+  {
+    "record_id": "ESG_ZK_2024_355",
+    "raw_ban": "44883108",
+    "raw_net_emission": 18883
+  },
+  {
+    "record_id": "ESG_ZK_2024_357",
+    "raw_ban": "14057995",
+    "raw_net_emission": 307715
+  },
+  {
+    "record_id": "ESG_ZK_2024_358",
+    "raw_ban": "76027628",
+    "raw_net_emission": 54670
+  },
+  {
+    "record_id": "ESG_ZK_2024_360",
+    "raw_ban": "28112667",
+    "raw_net_emission": 148945
+  },
+  {
+    "record_id": "ESG_ZK_2024_361",
+    "raw_ban": "22099131",
+    "raw_net_emission": 260311
+  },
+  {
+    "record_id": "ESG_ZK_2024_362",
+    "raw_ban": "11520909",
+    "raw_net_emission": 33919
+  },
+  {
+    "record_id": "ESG_ZK_2024_363",
+    "raw_ban": "16741846",
+    "raw_net_emission": 12270
+  },
+  {
+    "record_id": "ESG_ZK_2024_364",
+    "raw_ban": "04212250",
+    "raw_net_emission": 432352
+  },
+  {
+    "record_id": "ESG_ZK_2024_365",
+    "raw_ban": "16447610",
+    "raw_net_emission": 42037
+  },
+  {
+    "record_id": "ESG_ZK_2024_366",
+    "raw_ban": "22099131",
+    "raw_net_emission": 415955
+  },
+  {
+    "record_id": "ESG_ZK_2024_368",
+    "raw_ban": "19004316",
+    "raw_net_emission": 20154
+  },
+  {
+    "record_id": "ESG_ZK_2024_369",
+    "raw_ban": "52264848",
+    "raw_net_emission": 18715
+  },
+  {
+    "record_id": "ESG_ZK_2024_370",
+    "raw_ban": "54393468",
+    "raw_net_emission": 3144
+  },
+  {
+    "record_id": "ESG_ZK_2024_371",
+    "raw_ban": "76027628",
+    "raw_net_emission": 30953
+  },
+  {
+    "record_id": "ESG_ZK_2024_372",
+    "raw_ban": "54389725",
+    "raw_net_emission": 3009
+  },
+  {
+    "record_id": "ESG_ZK_2024_374",
+    "raw_ban": "45018531",
+    "raw_net_emission": 12865
+  },
+  {
+    "record_id": "ESG_ZK_2024_375",
+    "raw_ban": "22099456",
+    "raw_net_emission": 39857
+  },
+  {
+    "record_id": "ESG_ZK_2024_376",
+    "raw_ban": "70738116",
+    "raw_net_emission": 16771
+  },
+  {
+    "record_id": "ESG_ZK_2024_378",
+    "raw_ban": "97161348",
+    "raw_net_emission": 72712
+  },
+  {
+    "record_id": "ESG_ZK_2024_379",
+    "raw_ban": "03795904",
+    "raw_net_emission": 9594
+  },
+  {
+    "record_id": "ESG_ZK_2024_381",
+    "raw_ban": "07014916",
+    "raw_net_emission": 16084
+  },
+  {
+    "record_id": "ESG_ZK_2024_382",
+    "raw_ban": "33085508",
+    "raw_net_emission": 318115
+  },
+  {
+    "record_id": "ESG_ZK_2024_383",
+    "raw_ban": "14001199",
+    "raw_net_emission": 122595
+  },
+  {
+    "record_id": "ESG_ZK_2024_384",
+    "raw_ban": "84149738",
+    "raw_net_emission": 338385
+  },
+  {
+    "record_id": "ESG_ZK_2024_385",
+    "raw_ban": "22507241",
+    "raw_net_emission": 205882
+  },
+  {
+    "record_id": "ESG_ZK_2024_386",
+    "raw_ban": "22099890",
+    "raw_net_emission": 14565
+  },
+  {
+    "record_id": "ESG_ZK_2024_387",
+    "raw_ban": "97168665",
+    "raw_net_emission": 46121
+  },
+  {
+    "record_id": "ESG_ZK_2024_388",
+    "raw_ban": "23418128",
+    "raw_net_emission": 21362
+  },
+  {
+    "record_id": "ESG_ZK_2024_389",
+    "raw_ban": "97160544",
+    "raw_net_emission": 21878
+  },
+  {
+    "record_id": "ESG_ZK_2024_390",
+    "raw_ban": "20939460",
+    "raw_net_emission": 76278
+  },
+  {
+    "record_id": "ESG_ZK_2024_391",
+    "raw_ban": "84149358",
+    "raw_net_emission": 299346
+  },
+  {
+    "record_id": "ESG_ZK_2024_392",
+    "raw_ban": "75708007",
+    "raw_net_emission": 246122
+  },
+  {
+    "record_id": "ESG_ZK_2024_393",
+    "raw_ban": "12488060",
+    "raw_net_emission": 32410
+  },
+  {
+    "record_id": "ESG_ZK_2024_394",
+    "raw_ban": "04380087",
+    "raw_net_emission": 51007
+  },
+  {
+    "record_id": "ESG_ZK_2024_395",
+    "raw_ban": "59619900",
+    "raw_net_emission": 21817
+  },
+  {
+    "record_id": "ESG_ZK_2024_396",
+    "raw_ban": "16741846",
+    "raw_net_emission": 12453
+  },
+  {
+    "record_id": "ESG_ZK_2024_397",
+    "raw_ban": "07472834",
+    "raw_net_emission": 37063
+  },
+  {
+    "record_id": "ESG_ZK_2024_398",
+    "raw_ban": "19004316",
+    "raw_net_emission": 19741
+  },
+  {
+    "record_id": "ESG_ZK_2024_399",
+    "raw_ban": "28042430",
+    "raw_net_emission": 23783
+  },
+  {
+    "record_id": "ESG_ZK_2024_400",
+    "raw_ban": "22636630",
+    "raw_net_emission": 23241
+  },
+  {
+    "record_id": "ESG_ZK_2024_401",
+    "raw_ban": "85793919",
+    "raw_net_emission": 55183
+  },
+  {
+    "record_id": "ESG_ZK_2024_402",
+    "raw_ban": "76026851",
+    "raw_net_emission": 25188
+  },
+  {
+    "record_id": "ESG_ZK_2024_403",
+    "raw_ban": "16741846",
+    "raw_net_emission": 13360
+  },
+  {
+    "record_id": "ESG_ZK_2024_404",
+    "raw_ban": "11072509",
+    "raw_net_emission": 26956
+  },
+  {
+    "record_id": "ESG_ZK_2024_405",
+    "raw_ban": "54393468",
+    "raw_net_emission": 12520
+  },
+  {
+    "record_id": "ESG_ZK_2024_406",
+    "raw_ban": "76027628",
+    "raw_net_emission": 18063
+  },
+  {
+    "record_id": "ESG_ZK_2024_407",
+    "raw_ban": "27208480",
+    "raw_net_emission": 101265
+  },
+  {
+    "record_id": "ESG_ZK_2024_408",
+    "raw_ban": "86980046",
+    "raw_net_emission": 10977
+  },
+  {
+    "record_id": "ESG_ZK_2024_409",
+    "raw_ban": "16138282",
+    "raw_net_emission": 15906
+  },
+  {
+    "record_id": "ESG_ZK_2024_410",
+    "raw_ban": "11384708",
+    "raw_net_emission": 73206
+  },
+  {
+    "record_id": "ESG_ZK_2024_411",
+    "raw_ban": "84149358",
+    "raw_net_emission": 58570
+  },
+  {
+    "record_id": "ESG_ZK_2024_412",
+    "raw_ban": "11072509",
+    "raw_net_emission": 28021
+  },
+  {
+    "record_id": "ESG_ZK_2024_414",
+    "raw_ban": "22099131",
+    "raw_net_emission": 448609
+  },
+  {
+    "record_id": "ESG_ZK_2024_415",
+    "raw_ban": "35412204",
+    "raw_net_emission": 223339
+  },
+  {
+    "record_id": "ESG_ZK_2024_418",
+    "raw_ban": "03279507",
+    "raw_net_emission": 461021
+  },
+  {
+    "record_id": "ESG_ZK_2024_419",
+    "raw_ban": "11384708",
+    "raw_net_emission": 208156
+  },
+  {
+    "record_id": "ESG_ZK_2024_420",
+    "raw_ban": "07568009",
+    "raw_net_emission": 29352
+  },
+  {
+    "record_id": "ESG_ZK_2024_421",
+    "raw_ban": "22099131",
+    "raw_net_emission": 408911
+  },
+  {
+    "record_id": "ESG_ZK_2024_422",
+    "raw_ban": "86119908",
+    "raw_net_emission": 52659
+  },
+  {
+    "record_id": "ESG_ZK_2024_423",
+    "raw_ban": "22099174",
+    "raw_net_emission": 64000
+  },
+  {
+    "record_id": "ESG_ZK_2024_424",
+    "raw_ban": "14040691",
+    "raw_net_emission": 180233
+  },
+  {
+    "record_id": "ESG_ZK_2024_425",
+    "raw_ban": "86119908",
+    "raw_net_emission": 35440
+  },
+  {
+    "record_id": "ESG_ZK_2024_426",
+    "raw_ban": "28112667",
+    "raw_net_emission": 294777
+  },
+  {
+    "record_id": "ESG_ZK_2024_427",
+    "raw_ban": "22099131",
+    "raw_net_emission": 275934
+  },
+  {
+    "record_id": "ESG_ZK_2024_428",
+    "raw_ban": "70738116",
+    "raw_net_emission": 18316
+  },
+  {
+    "record_id": "ESG_ZK_2024_429",
+    "raw_ban": "79837539",
+    "raw_net_emission": 69473
+  },
+  {
+    "record_id": "ESG_ZK_2024_431",
+    "raw_ban": "84149786",
+    "raw_net_emission": 19173
+  },
+  {
+    "record_id": "ESG_ZK_2024_432",
+    "raw_ban": "89002500",
+    "raw_net_emission": 58084
+  },
+  {
+    "record_id": "ESG_ZK_2024_433",
+    "raw_ban": "16082267",
+    "raw_net_emission": 39367
+  },
+  {
+    "record_id": "ESG_ZK_2024_435",
+    "raw_ban": "76027628",
+    "raw_net_emission": 29287
+  },
+  {
+    "record_id": "ESG_ZK_2024_436",
+    "raw_ban": "42818882",
+    "raw_net_emission": 225848
+  },
+  {
+    "record_id": "ESG_ZK_2024_437",
+    "raw_ban": "34286449",
+    "raw_net_emission": 9804
+  },
+  {
+    "record_id": "ESG_ZK_2024_438",
+    "raw_ban": "04388145",
+    "raw_net_emission": 321028
+  },
+  {
+    "record_id": "ESG_ZK_2024_439",
+    "raw_ban": "84149786",
+    "raw_net_emission": 28280
+  },
+  {
+    "record_id": "ESG_ZK_2024_440",
+    "raw_ban": "76027628",
+    "raw_net_emission": 53205
+  },
+  {
+    "record_id": "ESG_ZK_2024_444",
+    "raw_ban": "76027628",
+    "raw_net_emission": 45063
+  },
+  {
+    "record_id": "ESG_ZK_2024_445",
+    "raw_ban": "07838854",
+    "raw_net_emission": 187955
+  },
+  {
+    "record_id": "ESG_ZK_2024_446",
+    "raw_ban": "16447610",
+    "raw_net_emission": 50011
+  },
+  {
+    "record_id": "ESG_ZK_2024_447",
+    "raw_ban": "12800225",
+    "raw_net_emission": 212476
+  },
+  {
+    "record_id": "ESG_ZK_2024_449",
+    "raw_ban": "20747385",
+    "raw_net_emission": 95912
+  },
+  {
+    "record_id": "ESG_ZK_2024_450",
+    "raw_ban": "22663158",
+    "raw_net_emission": 29067
+  },
+  {
+    "record_id": "ESG_ZK_2024_451",
+    "raw_ban": "59619900",
+    "raw_net_emission": 21718
+  },
+  {
+    "record_id": "ESG_ZK_2024_452",
+    "raw_ban": "12205020",
+    "raw_net_emission": 49694
+  },
+  {
+    "record_id": "ESG_ZK_2024_453",
+    "raw_ban": "89392269",
+    "raw_net_emission": 18354
+  },
+  {
+    "record_id": "ESG_ZK_2024_454",
+    "raw_ban": "90505585",
+    "raw_net_emission": 30032
+  },
+  {
+    "record_id": "ESG_ZK_2024_456",
+    "raw_ban": "70781345",
+    "raw_net_emission": 31225
+  },
+  {
+    "record_id": "ESG_ZK_2024_457",
+    "raw_ban": "23535435",
+    "raw_net_emission": 26238
+  },
+  {
+    "record_id": "ESG_ZK_2024_458",
+    "raw_ban": "22663158",
+    "raw_net_emission": 29681
+  },
+  {
+    "record_id": "ESG_ZK_2024_460",
+    "raw_ban": "16450500",
+    "raw_net_emission": 203547
+  },
+  {
+    "record_id": "ESG_ZK_2024_462",
+    "raw_ban": "54389725",
+    "raw_net_emission": 36519
+  },
+  {
+    "record_id": "ESG_ZK_2024_463",
+    "raw_ban": "76027628",
+    "raw_net_emission": 26090
+  },
+  {
+    "record_id": "ESG_ZK_2024_464",
+    "raw_ban": "76027628",
+    "raw_net_emission": 58474
+  },
+  {
+    "record_id": "ESG_ZK_2024_465",
+    "raw_ban": "22522453",
+    "raw_net_emission": 27390
+  },
+  {
+    "record_id": "ESG_ZK_2024_466",
+    "raw_ban": "03707901",
+    "raw_net_emission": 102043
+  },
+  {
+    "record_id": "ESG_ZK_2024_467",
+    "raw_ban": "84149738",
+    "raw_net_emission": 175293
+  },
+  {
+    "record_id": "ESG_ZK_2024_468",
+    "raw_ban": "53372182",
+    "raw_net_emission": 16683
+  },
+  {
+    "record_id": "ESG_ZK_2024_469",
+    "raw_ban": "75280209",
+    "raw_net_emission": 24166
+  },
+  {
+    "record_id": "ESG_ZK_2024_470",
+    "raw_ban": "11520909",
+    "raw_net_emission": 33973
+  },
+  {
+    "record_id": "ESG_ZK_2024_471",
+    "raw_ban": "68919301",
+    "raw_net_emission": 69120
+  },
+  {
+    "record_id": "ESG_ZK_2024_472",
+    "raw_ban": "22099131",
+    "raw_net_emission": 105064
+  },
+  {
+    "record_id": "ESG_ZK_2024_473",
+    "raw_ban": "97160544",
+    "raw_net_emission": 21332
+  },
+  {
+    "record_id": "ESG_ZK_2024_474",
+    "raw_ban": "12233428",
+    "raw_net_emission": 72565
+  },
+  {
+    "record_id": "ESG_ZK_2024_475",
+    "raw_ban": "54393468",
+    "raw_net_emission": 15137
+  },
+  {
+    "record_id": "ESG_ZK_2024_476",
+    "raw_ban": "23221384",
+    "raw_net_emission": 78694
+  },
+  {
+    "record_id": "ESG_ZK_2024_477",
+    "raw_ban": "47217677",
+    "raw_net_emission": 178788
+  },
+  {
+    "record_id": "ESG_ZK_2024_478",
+    "raw_ban": "88187108",
+    "raw_net_emission": 16094
+  },
+  {
+    "record_id": "ESG_ZK_2024_479",
+    "raw_ban": "22318678",
+    "raw_net_emission": 278473
+  },
+  {
+    "record_id": "ESG_ZK_2024_480",
+    "raw_ban": "38033305",
+    "raw_net_emission": 58984
+  },
+  {
+    "record_id": "ESG_ZK_2024_481",
+    "raw_ban": "80445899",
+    "raw_net_emission": 26247
+  },
+  {
+    "record_id": "ESG_ZK_2024_482",
+    "raw_ban": "75992214",
+    "raw_net_emission": 21155
+  },
+  {
+    "record_id": "ESG_ZK_2024_483",
+    "raw_ban": "19084015",
+    "raw_net_emission": 171354
+  },
+  {
+    "record_id": "ESG_ZK_2024_484",
+    "raw_ban": "36514783",
+    "raw_net_emission": 26785
+  },
+  {
+    "record_id": "ESG_ZK_2024_487",
+    "raw_ban": "27366467",
+    "raw_net_emission": 49849
+  },
+  {
+    "record_id": "ESG_ZK_2024_488",
+    "raw_ban": "07220508",
+    "raw_net_emission": 19322
+  },
+  {
+    "record_id": "ESG_ZK_2024_489",
+    "raw_ban": "05258865",
+    "raw_net_emission": 45091
+  },
+  {
+    "record_id": "ESG_ZK_2024_490",
+    "raw_ban": "23218395",
+    "raw_net_emission": 480004
+  },
+  {
+    "record_id": "ESG_ZK_2024_491",
+    "raw_ban": "89397503",
+    "raw_net_emission": 20476
+  },
+  {
+    "record_id": "ESG_ZK_2024_492",
+    "raw_ban": "03707901",
+    "raw_net_emission": 67726
+  },
+  {
+    "record_id": "ESG_ZK_2024_493",
+    "raw_ban": "22099343",
+    "raw_net_emission": 785
+  },
+  {
+    "record_id": "ESG_ZK_2024_494",
+    "raw_ban": "57002416",
+    "raw_net_emission": 17852
+  },
+  {
+    "record_id": "ESG_ZK_2024_495",
+    "raw_ban": "86691377",
+    "raw_net_emission": 21219
+  },
+  {
+    "record_id": "ESG_ZK_2024_496",
+    "raw_ban": "05126366",
+    "raw_net_emission": 22802
+  },
+  {
+    "record_id": "ESG_ZK_2024_497",
+    "raw_ban": "16635562",
+    "raw_net_emission": 19306
+  },
+  {
+    "record_id": "ESG_ZK_2024_498",
+    "raw_ban": "84149738",
+    "raw_net_emission": 21196
+  },
+  {
+    "record_id": "ESG_ZK_2024_499",
+    "raw_ban": "34202841",
+    "raw_net_emission": 489705
+  },
+  {
+    "record_id": "ESG_ZK_2024_500",
+    "raw_ban": "70776899",
+    "raw_net_emission": 31147
+  },
+  {
+    "record_id": "ESG_ZK_2024_501",
+    "raw_ban": "16130042",
+    "raw_net_emission": 43048
+  },
+  {
+    "record_id": "ESG_ZK_2024_502",
+    "raw_ban": "07663290",
+    "raw_net_emission": 14726
+  },
+  {
+    "record_id": "ESG_ZK_2024_503",
+    "raw_ban": "28518076",
+    "raw_net_emission": 181178
+  },
+  {
+    "record_id": "ESG_ZK_2024_504",
+    "raw_ban": "70752257",
+    "raw_net_emission": 18834
+  },
+  {
+    "record_id": "ESG_ZK_2024_506",
+    "raw_ban": "61932639",
+    "raw_net_emission": 90837
+  },
+  {
+    "record_id": "ESG_ZK_2024_507",
+    "raw_ban": "80353271",
+    "raw_net_emission": 440840
+  },
+  {
+    "record_id": "ESG_ZK_2024_508",
+    "raw_ban": "84149738",
+    "raw_net_emission": 232992
+  },
+  {
+    "record_id": "ESG_ZK_2024_509",
+    "raw_ban": "85793919",
+    "raw_net_emission": 33904
+  },
+  {
+    "record_id": "ESG_ZK_2024_511",
+    "raw_ban": "22522453",
+    "raw_net_emission": 39935
+  },
+  {
+    "record_id": "ESG_ZK_2024_512",
+    "raw_ban": "18770509",
+    "raw_net_emission": 30423
+  },
+  {
+    "record_id": "ESG_ZK_2024_513",
+    "raw_ban": "39054405",
+    "raw_net_emission": 57588
+  },
+  {
+    "record_id": "ESG_ZK_2024_514",
+    "raw_ban": "11914002",
+    "raw_net_emission": 19358
+  },
+  {
+    "record_id": "ESG_ZK_2024_515",
+    "raw_ban": "14001199",
+    "raw_net_emission": 29175
+  },
+  {
+    "record_id": "ESG_ZK_2024_516",
+    "raw_ban": "03522600",
+    "raw_net_emission": 162044
+  },
+  {
+    "record_id": "ESG_ZK_2024_517",
+    "raw_ban": "84149358",
+    "raw_net_emission": 159532
+  },
+  {
+    "record_id": "ESG_ZK_2024_518",
+    "raw_ban": "88680066",
+    "raw_net_emission": 20589
+  },
+  {
+    "record_id": "ESG_ZK_2024_519",
+    "raw_ban": "49701774",
+    "raw_net_emission": 83417
+  },
+  {
+    "record_id": "ESG_ZK_2024_520",
+    "raw_ban": "75688109",
+    "raw_net_emission": 41066
+  },
+  {
+    "record_id": "ESG_ZK_2024_521",
+    "raw_ban": "07066907",
+    "raw_net_emission": 405657
+  },
+  {
+    "record_id": "ESG_ZK_2024_522",
+    "raw_ban": "54389725",
+    "raw_net_emission": 12690
+  },
+  {
+    "record_id": "ESG_ZK_2024_523",
+    "raw_ban": "11833698",
+    "raw_net_emission": 25601
+  },
+  {
+    "record_id": "ESG_ZK_2024_524",
+    "raw_ban": "16082267",
+    "raw_net_emission": 66358
+  },
+  {
+    "record_id": "ESG_ZK_2024_525",
+    "raw_ban": "96922622",
+    "raw_net_emission": 30742
+  },
+  {
+    "record_id": "ESG_ZK_2024_526",
+    "raw_ban": "89406518",
+    "raw_net_emission": 224104
+  },
+  {
+    "record_id": "ESG_ZK_2024_527",
+    "raw_ban": "22099456",
+    "raw_net_emission": 37973
+  },
+  {
+    "record_id": "ESG_ZK_2024_528",
+    "raw_ban": "75947936",
+    "raw_net_emission": 117666
+  },
+  {
+    "record_id": "ESG_ZK_2024_529",
+    "raw_ban": "11384708",
+    "raw_net_emission": 225869
+  },
+  {
+    "record_id": "ESG_ZK_2024_530",
+    "raw_ban": "76027628",
+    "raw_net_emission": 52851
+  },
+  {
+    "record_id": "ESG_ZK_2024_531",
+    "raw_ban": "35412204",
+    "raw_net_emission": 75657
+  },
+  {
+    "record_id": "ESG_ZK_2024_532",
+    "raw_ban": "84570243",
+    "raw_net_emission": 14026
+  },
+  {
+    "record_id": "ESG_ZK_2024_533",
+    "raw_ban": "43031502",
+    "raw_net_emission": 24156
+  },
+  {
+    "record_id": "ESG_ZK_2024_534",
+    "raw_ban": "55991080",
+    "raw_net_emission": 75262
+  },
+  {
+    "record_id": "ESG_ZK_2024_536",
+    "raw_ban": "28230046",
+    "raw_net_emission": 33416
+  },
+  {
+    "record_id": "ESG_ZK_2024_537",
+    "raw_ban": "70584724",
+    "raw_net_emission": 109626
+  },
+  {
+    "record_id": "ESG_ZK_2024_538",
+    "raw_ban": "23535435",
+    "raw_net_emission": 25931
+  },
+  {
+    "record_id": "ESG_ZK_2024_539",
+    "raw_ban": "16083358",
+    "raw_net_emission": 11473
+  },
+  {
+    "record_id": "ESG_ZK_2024_541",
+    "raw_ban": "79837539",
+    "raw_net_emission": 77454
+  },
+  {
+    "record_id": "ESG_ZK_2024_542",
+    "raw_ban": "16847968",
+    "raw_net_emission": 4991
+  },
+  {
+    "record_id": "ESG_ZK_2024_543",
+    "raw_ban": "96922622",
+    "raw_net_emission": 30349
+  },
+  {
+    "record_id": "ESG_ZK_2024_544",
+    "raw_ban": "70750217",
+    "raw_net_emission": 40641
+  },
+  {
+    "record_id": "ESG_ZK_2024_545",
+    "raw_ban": "07205416",
+    "raw_net_emission": 13350
+  },
+  {
+    "record_id": "ESG_ZK_2024_546",
+    "raw_ban": "68919301",
+    "raw_net_emission": 41369
+  },
+  {
+    "record_id": "ESG_ZK_2024_547",
+    "raw_ban": "07066907",
+    "raw_net_emission": 0
+  },
+  {
+    "record_id": "ESG_ZK_2024_548",
+    "raw_ban": "25131486",
+    "raw_net_emission": 10399
+  },
+  {
+    "record_id": "ESG_ZK_2024_549",
+    "raw_ban": "07220508",
+    "raw_net_emission": 19467
+  },
+  {
+    "record_id": "ESG_ZK_2024_551",
+    "raw_ban": "23271588",
+    "raw_net_emission": 8405
+  },
+  {
+    "record_id": "ESG_ZK_2024_552",
+    "raw_ban": "07838854",
+    "raw_net_emission": 21942
+  },
+  {
+    "record_id": "ESG_ZK_2024_553",
+    "raw_ban": "23826736",
+    "raw_net_emission": 107003
+  },
+  {
+    "record_id": "ESG_ZK_2024_554",
+    "raw_ban": "75688109",
+    "raw_net_emission": 41990
+  },
+  {
+    "record_id": "ESG_ZK_2024_555",
+    "raw_ban": "76027628",
+    "raw_net_emission": 61271
+  },
+  {
+    "record_id": "ESG_ZK_2024_556",
+    "raw_ban": "11072509",
+    "raw_net_emission": 56487
+  },
+  {
+    "record_id": "ESG_ZK_2024_557",
+    "raw_ban": "28730458",
+    "raw_net_emission": 36399
+  },
+  {
+    "record_id": "ESG_ZK_2024_558",
+    "raw_ban": "47217677",
+    "raw_net_emission": 145606
+  },
+  {
+    "record_id": "ESG_ZK_2024_559",
+    "raw_ban": "12800225",
+    "raw_net_emission": 225562
+  },
+  {
+    "record_id": "ESG_ZK_2024_560",
+    "raw_ban": "16834268",
+    "raw_net_emission": 70269
+  },
+  {
+    "record_id": "ESG_ZK_2024_561",
+    "raw_ban": "55991080",
+    "raw_net_emission": 105040
+  },
+  {
+    "record_id": "ESG_ZK_2024_562",
+    "raw_ban": "70785139",
+    "raw_net_emission": 27037
+  },
+  {
+    "record_id": "ESG_ZK_2024_563",
+    "raw_ban": "14001199",
+    "raw_net_emission": 21062
+  },
+  {
+    "record_id": "ESG_ZK_2024_565",
+    "raw_ban": "33405832",
+    "raw_net_emission": 35850
+  },
+  {
+    "record_id": "ESG_ZK_2024_566",
+    "raw_ban": "03795904",
+    "raw_net_emission": 202119
+  },
+  {
+    "record_id": "ESG_ZK_2024_567",
+    "raw_ban": "22956507",
+    "raw_net_emission": 28414
+  },
+  {
+    "record_id": "ESG_ZK_2024_569",
+    "raw_ban": "39054405",
+    "raw_net_emission": 62260
+  },
+  {
+    "record_id": "ESG_ZK_2024_570",
+    "raw_ban": "89397503",
+    "raw_net_emission": 18259
+  },
+  {
+    "record_id": "ESG_ZK_2024_571",
+    "raw_ban": "07435515",
+    "raw_net_emission": 39266
+  },
+  {
+    "record_id": "ESG_ZK_2024_572",
+    "raw_ban": "20927014",
+    "raw_net_emission": 103895
+  },
+  {
+    "record_id": "ESG_ZK_2024_573",
+    "raw_ban": "70848177",
+    "raw_net_emission": 31986
+  },
+  {
+    "record_id": "ESG_ZK_2024_574",
+    "raw_ban": "23535435",
+    "raw_net_emission": 26970
+  },
+  {
+    "record_id": "ESG_ZK_2024_575",
+    "raw_ban": "85066002",
+    "raw_net_emission": 148460
+  },
+  {
+    "record_id": "ESG_ZK_2024_577",
+    "raw_ban": "27763753",
+    "raw_net_emission": 12314
+  },
+  {
+    "record_id": "ESG_ZK_2024_578",
+    "raw_ban": "07220710",
+    "raw_net_emission": 29392
+  },
+  {
+    "record_id": "ESG_ZK_2024_579",
+    "raw_ban": "05126366",
+    "raw_net_emission": 68200
+  },
+  {
+    "record_id": "ESG_ZK_2024_581",
+    "raw_ban": "12529007",
+    "raw_net_emission": 26801
+  },
+  {
+    "record_id": "ESG_ZK_2024_582",
+    "raw_ban": "70785139",
+    "raw_net_emission": 85386
+  },
+  {
+    "record_id": "ESG_ZK_2024_583",
+    "raw_ban": "89390656",
+    "raw_net_emission": 403048
+  },
+  {
+    "record_id": "ESG_ZK_2024_584",
+    "raw_ban": "19004316",
+    "raw_net_emission": 25787
+  },
+  {
+    "record_id": "ESG_ZK_2024_585",
+    "raw_ban": "16631664",
+    "raw_net_emission": 29546
+  },
+  {
+    "record_id": "ESG_ZK_2024_586",
+    "raw_ban": "89356756",
+    "raw_net_emission": 19196
+  },
+  {
+    "record_id": "ESG_ZK_2024_587",
+    "raw_ban": "76027628",
+    "raw_net_emission": 41540
+  },
+  {
+    "record_id": "ESG_ZK_2024_588",
+    "raw_ban": "12800225",
+    "raw_net_emission": 49886
+  },
+  {
+    "record_id": "ESG_ZK_2024_589",
+    "raw_ban": "30414175",
+    "raw_net_emission": 146600
+  },
+  {
+    "record_id": "ESG_ZK_2024_590",
+    "raw_ban": "22853994",
+    "raw_net_emission": 82247
+  },
+  {
+    "record_id": "ESG_ZK_2024_591",
+    "raw_ban": "94025264",
+    "raw_net_emission": 143929
+  },
+  {
+    "record_id": "ESG_ZK_2024_592",
+    "raw_ban": "43295237",
+    "raw_net_emission": 53412
+  },
+  {
+    "record_id": "ESG_ZK_2024_593",
+    "raw_ban": "97161348",
+    "raw_net_emission": 0
+  },
+  {
+    "record_id": "ESG_ZK_2024_594",
+    "raw_ban": "16741846",
+    "raw_net_emission": 60426
+  },
+  {
+    "record_id": "ESG_ZK_2024_595",
+    "raw_ban": "16083358",
+    "raw_net_emission": 14021
+  },
+  {
+    "record_id": "ESG_ZK_2024_596",
+    "raw_ban": "11914002",
+    "raw_net_emission": 102574
+  },
+  {
+    "record_id": "ESG_ZK_2024_597",
+    "raw_ban": "70785139",
+    "raw_net_emission": 34938
+  },
+  {
+    "record_id": "ESG_ZK_2024_598",
+    "raw_ban": "16138282",
+    "raw_net_emission": 15201
+  },
+  {
+    "record_id": "ESG_ZK_2024_599",
+    "raw_ban": "89004161",
+    "raw_net_emission": 23149
+  },
+  {
+    "record_id": "ESG_ZK_2024_600",
+    "raw_ban": "12800225",
+    "raw_net_emission": 21020
+  },
+  {
+    "record_id": "ESG_ZK_2024_601",
+    "raw_ban": "76027628",
+    "raw_net_emission": 34662
+  },
+  {
+    "record_id": "ESG_ZK_2024_602",
+    "raw_ban": "07435515",
+    "raw_net_emission": 238122
+  },
+  {
+    "record_id": "ESG_ZK_2024_603",
+    "raw_ban": "03084741",
+    "raw_net_emission": 27898
+  },
+  {
+    "record_id": "ESG_ZK_2024_604",
+    "raw_ban": "03543210",
+    "raw_net_emission": 36553
+  },
+  {
+    "record_id": "ESG_ZK_2024_605",
+    "raw_ban": "11893409",
+    "raw_net_emission": 33292
+  },
+  {
+    "record_id": "ESG_ZK_2024_606",
+    "raw_ban": "75708007",
+    "raw_net_emission": 101848
+  },
+  {
+    "record_id": "ESG_ZK_2024_607",
+    "raw_ban": "11384806",
+    "raw_net_emission": 483898
+  },
+  {
+    "record_id": "ESG_ZK_2024_608",
+    "raw_ban": "16635562",
+    "raw_net_emission": 23842
+  },
+  {
+    "record_id": "ESG_ZK_2024_609",
+    "raw_ban": "11384405",
+    "raw_net_emission": 49159
+  },
+  {
+    "record_id": "ESG_ZK_2024_610",
+    "raw_ban": "84149738",
+    "raw_net_emission": 235194
+  },
+  {
+    "record_id": "ESG_ZK_2024_611",
+    "raw_ban": "23827741",
+    "raw_net_emission": 71716
+  },
+  {
+    "record_id": "ESG_ZK_2024_612",
+    "raw_ban": "22099456",
+    "raw_net_emission": 51671
+  },
+  {
+    "record_id": "ESG_ZK_2024_613",
+    "raw_ban": "35192807",
+    "raw_net_emission": 6423
+  },
+  {
+    "record_id": "ESG_ZK_2024_614",
+    "raw_ban": "53667030",
+    "raw_net_emission": 56998
+  },
+  {
+    "record_id": "ESG_ZK_2024_615",
+    "raw_ban": "22099131",
+    "raw_net_emission": 237588
+  },
+  {
+    "record_id": "ESG_ZK_2024_616",
+    "raw_ban": "07620770",
+    "raw_net_emission": 1684
+  },
+  {
+    "record_id": "ESG_ZK_2024_617",
+    "raw_ban": "90505585",
+    "raw_net_emission": 35134
+  },
+  {
+    "record_id": "ESG_ZK_2024_618",
+    "raw_ban": "22099131",
+    "raw_net_emission": 379400
+  },
+  {
+    "record_id": "ESG_ZK_2024_620",
+    "raw_ban": "22099131",
+    "raw_net_emission": 89655
+  },
+  {
+    "record_id": "ESG_ZK_2024_622",
+    "raw_ban": "75460005",
+    "raw_net_emission": 90445
+  },
+  {
+    "record_id": "ESG_ZK_2024_623",
+    "raw_ban": "04401392",
+    "raw_net_emission": 37742
+  },
+  {
+    "record_id": "ESG_ZK_2024_624",
+    "raw_ban": "28997300",
+    "raw_net_emission": 38389
+  },
+  {
+    "record_id": "ESG_ZK_2024_626",
+    "raw_ban": "22099548",
+    "raw_net_emission": 202111
+  },
+  {
+    "record_id": "ESG_ZK_2024_627",
+    "raw_ban": "75339004",
+    "raw_net_emission": 26335
+  },
+  {
+    "record_id": "ESG_ZK_2024_628",
+    "raw_ban": "16834268",
+    "raw_net_emission": 70572
+  },
+  {
+    "record_id": "ESG_ZK_2024_630",
+    "raw_ban": "22522453",
+    "raw_net_emission": 25548
+  },
+  {
+    "record_id": "ESG_ZK_2024_631",
+    "raw_ban": "73251209",
+    "raw_net_emission": 21889
+  },
+  {
+    "record_id": "ESG_ZK_2024_632",
+    "raw_ban": "22522453",
+    "raw_net_emission": 22670
+  },
+  {
+    "record_id": "ESG_ZK_2024_633",
+    "raw_ban": "16741846",
+    "raw_net_emission": 63246
+  },
+  {
+    "record_id": "ESG_ZK_2024_634",
+    "raw_ban": "07663290",
+    "raw_net_emission": 107019
+  },
+  {
+    "record_id": "ESG_ZK_2024_635",
+    "raw_ban": "05637971",
+    "raw_net_emission": 40124
+  },
+  {
+    "record_id": "ESG_ZK_2024_636",
+    "raw_ban": "70781345",
+    "raw_net_emission": 8142
+  },
+  {
+    "record_id": "ESG_ZK_2024_637",
+    "raw_ban": "04388145",
+    "raw_net_emission": 64018
+  },
+  {
+    "record_id": "ESG_ZK_2024_638",
+    "raw_ban": "22099131",
+    "raw_net_emission": 129825
+  },
+  {
+    "record_id": "ESG_ZK_2024_639",
+    "raw_ban": "75470524",
+    "raw_net_emission": 112867
+  },
+  {
+    "record_id": "ESG_ZK_2024_640",
+    "raw_ban": "28112667",
+    "raw_net_emission": 83275
+  },
+  {
+    "record_id": "ESG_ZK_2024_641",
+    "raw_ban": "36550632",
+    "raw_net_emission": 27134
+  },
+  {
+    "record_id": "ESG_ZK_2024_642",
+    "raw_ban": "22099131",
+    "raw_net_emission": 256603
+  },
+  {
+    "record_id": "ESG_ZK_2024_643",
+    "raw_ban": "05258865",
+    "raw_net_emission": 50956
+  },
+  {
+    "record_id": "ESG_ZK_2024_644",
+    "raw_ban": "43295237",
+    "raw_net_emission": 44637
+  },
+  {
+    "record_id": "ESG_ZK_2024_645",
+    "raw_ban": "22099131",
+    "raw_net_emission": 405404
+  },
+  {
+    "record_id": "ESG_ZK_2024_646",
+    "raw_ban": "11384708",
+    "raw_net_emission": 36514
+  },
+  {
+    "record_id": "ESG_ZK_2024_647",
+    "raw_ban": "76027628",
+    "raw_net_emission": 13246
+  },
+  {
+    "record_id": "ESG_ZK_2024_648",
+    "raw_ban": "16130042",
+    "raw_net_emission": 33449
+  },
+  {
+    "record_id": "ESG_ZK_2024_649",
+    "raw_ban": "28438186",
+    "raw_net_emission": 38581
+  },
+  {
+    "record_id": "ESG_ZK_2024_650",
+    "raw_ban": "16082267",
+    "raw_net_emission": 11909
+  },
+  {
+    "record_id": "ESG_ZK_2024_651",
+    "raw_ban": "80445899",
+    "raw_net_emission": 26443
+  },
+  {
+    "record_id": "ESG_ZK_2024_652",
+    "raw_ban": "25021158",
+    "raw_net_emission": 31741
+  },
+  {
+    "record_id": "ESG_ZK_2024_653",
+    "raw_ban": "70785139",
+    "raw_net_emission": 54253
+  },
+  {
+    "record_id": "ESG_ZK_2024_654",
+    "raw_ban": "11914002",
+    "raw_net_emission": 77386
+  },
+  {
+    "record_id": "ESG_ZK_2024_656",
+    "raw_ban": "34258318",
+    "raw_net_emission": 24800
+  },
+  {
+    "record_id": "ESG_ZK_2024_657",
+    "raw_ban": "22099456",
+    "raw_net_emission": 14790
+  },
+  {
+    "record_id": "ESG_ZK_2024_658",
+    "raw_ban": "69771636",
+    "raw_net_emission": 229041
+  },
+  {
+    "record_id": "ESG_ZK_2024_659",
+    "raw_ban": "84149456",
+    "raw_net_emission": 23846
+  },
+  {
+    "record_id": "ESG_ZK_2024_660",
+    "raw_ban": "25021158",
+    "raw_net_emission": 34960
+  },
+  {
+    "record_id": "ESG_ZK_2024_661",
+    "raw_ban": "33955322",
+    "raw_net_emission": 125273
+  },
+  {
+    "record_id": "ESG_ZK_2024_662",
+    "raw_ban": "03522600",
+    "raw_net_emission": 152466
+  },
+  {
+    "record_id": "ESG_ZK_2024_663",
+    "raw_ban": "11072509",
+    "raw_net_emission": 107395
+  },
+  {
+    "record_id": "ESG_ZK_2024_664",
+    "raw_ban": "16096804",
+    "raw_net_emission": 375435
+  },
+  {
+    "record_id": "ESG_ZK_2024_665",
+    "raw_ban": "22554807",
+    "raw_net_emission": 46564
+  },
+  {
+    "record_id": "ESG_ZK_2024_666",
+    "raw_ban": "76027628",
+    "raw_net_emission": 55697
+  },
+  {
+    "record_id": "ESG_ZK_2024_667",
+    "raw_ban": "23535435",
+    "raw_net_emission": 122615
+  },
+  {
+    "record_id": "ESG_ZK_2024_668",
+    "raw_ban": "11072509",
+    "raw_net_emission": 83017
+  },
+  {
+    "record_id": "ESG_ZK_2024_669",
+    "raw_ban": "39054405",
+    "raw_net_emission": 54086
+  },
+  {
+    "record_id": "ESG_ZK_2024_670",
+    "raw_ban": "05007903",
+    "raw_net_emission": 26717
+  },
+  {
+    "record_id": "ESG_ZK_2024_671",
+    "raw_ban": "16447610",
+    "raw_net_emission": 41682
+  },
+  {
+    "record_id": "ESG_ZK_2024_672",
+    "raw_ban": "75947936",
+    "raw_net_emission": 22119
+  },
+  {
+    "record_id": "ESG_ZK_2024_673",
+    "raw_ban": "22099131",
+    "raw_net_emission": 195817
+  },
+  {
+    "record_id": "ESG_ZK_2024_674",
+    "raw_ban": "84980915",
+    "raw_net_emission": 30382
+  },
+  {
+    "record_id": "ESG_ZK_2024_676",
+    "raw_ban": "22817999",
+    "raw_net_emission": 90850
+  },
+  {
+    "record_id": "ESG_ZK_2024_677",
+    "raw_ban": "22507241",
+    "raw_net_emission": 64238
+  },
+  {
+    "record_id": "ESG_ZK_2024_678",
+    "raw_ban": "34202841",
+    "raw_net_emission": 456354
+  },
+  {
+    "record_id": "ESG_ZK_2024_679",
+    "raw_ban": "84149738",
+    "raw_net_emission": 5935
+  },
+  {
+    "record_id": "ESG_ZK_2024_680",
+    "raw_ban": "03553737",
+    "raw_net_emission": 133991
+  },
+  {
+    "record_id": "ESG_ZK_2024_681",
+    "raw_ban": "20939460",
+    "raw_net_emission": 55074
+  },
+  {
+    "record_id": "ESG_ZK_2024_682",
+    "raw_ban": "28113286",
+    "raw_net_emission": 14563
+  },
+  {
+    "record_id": "ESG_ZK_2024_683",
+    "raw_ban": "11384806",
+    "raw_net_emission": 45499
+  },
+  {
+    "record_id": "ESG_ZK_2024_684",
+    "raw_ban": "16082267",
+    "raw_net_emission": 69277
+  },
+  {
+    "record_id": "ESG_ZK_2024_685",
+    "raw_ban": "89528054",
+    "raw_net_emission": 83125
+  },
+  {
+    "record_id": "ESG_ZK_2024_686",
+    "raw_ban": "70752257",
+    "raw_net_emission": 61122
+  },
+  {
+    "record_id": "ESG_ZK_2024_688",
+    "raw_ban": "16138282",
+    "raw_net_emission": 37819
+  },
+  {
+    "record_id": "ESG_ZK_2024_689",
+    "raw_ban": "16638110",
+    "raw_net_emission": 23326
+  },
+  {
+    "record_id": "ESG_ZK_2024_690",
+    "raw_ban": "22099131",
+    "raw_net_emission": 104252
+  },
+  {
+    "record_id": "ESG_ZK_2024_692",
+    "raw_ban": "23535435",
+    "raw_net_emission": 24152
+  },
+  {
+    "record_id": "ESG_ZK_2024_693",
+    "raw_ban": "70584724",
+    "raw_net_emission": 23209
+  },
+  {
+    "record_id": "ESG_ZK_2024_694",
+    "raw_ban": "23535435",
+    "raw_net_emission": 39088
+  },
+  {
+    "record_id": "ESG_ZK_2024_695",
+    "raw_ban": "80087041",
+    "raw_net_emission": 126054
+  },
+  {
+    "record_id": "ESG_ZK_2024_696",
+    "raw_ban": "73251209",
+    "raw_net_emission": 45815
+  },
+  {
+    "record_id": "ESG_ZK_2024_697",
+    "raw_ban": "68387705",
+    "raw_net_emission": 359301
+  },
+  {
+    "record_id": "ESG_ZK_2024_698",
+    "raw_ban": "03543210",
+    "raw_net_emission": 33842
+  },
+  {
+    "record_id": "ESG_ZK_2024_699",
+    "raw_ban": "22522453",
+    "raw_net_emission": 49323
+  },
+  {
+    "record_id": "ESG_ZK_2024_700",
+    "raw_ban": "84149738",
+    "raw_net_emission": 9444
+  },
+  {
+    "record_id": "ESG_ZK_2024_701",
+    "raw_ban": "23535435",
+    "raw_net_emission": 67515
+  },
+  {
+    "record_id": "ESG_ZK_2024_702",
+    "raw_ban": "47217677",
+    "raw_net_emission": 360116
+  },
+  {
+    "record_id": "ESG_ZK_2024_703",
+    "raw_ban": "44883108",
+    "raw_net_emission": 17998
+  },
+  {
+    "record_id": "ESG_ZK_2024_704",
+    "raw_ban": "22099456",
+    "raw_net_emission": 15395
+  },
+  {
+    "record_id": "ESG_ZK_2024_705",
+    "raw_ban": "22099131",
+    "raw_net_emission": 300168
+  },
+  {
+    "record_id": "ESG_ZK_2024_706",
+    "raw_ban": "43295237",
+    "raw_net_emission": 35709
+  },
+  {
+    "record_id": "ESG_ZK_2024_708",
+    "raw_ban": "75992214",
+    "raw_net_emission": 23088
+  },
+  {
+    "record_id": "ESG_ZK_2024_709",
+    "raw_ban": "68387705",
+    "raw_net_emission": 359790
+  },
+  {
+    "record_id": "ESG_ZK_2024_711",
+    "raw_ban": "75708007",
+    "raw_net_emission": 122599
+  },
+  {
+    "record_id": "ESG_ZK_2024_712",
+    "raw_ban": "22554807",
+    "raw_net_emission": 52829
+  },
+  {
+    "record_id": "ESG_ZK_2024_713",
+    "raw_ban": "84252697",
+    "raw_net_emission": 47191
+  },
+  {
+    "record_id": "ESG_ZK_2024_714",
+    "raw_ban": "16631664",
+    "raw_net_emission": 26852
+  },
+  {
+    "record_id": "ESG_ZK_2024_715",
+    "raw_ban": "58650902",
+    "raw_net_emission": 12500
+  },
+  {
+    "record_id": "ESG_ZK_2024_717",
+    "raw_ban": "70750217",
+    "raw_net_emission": 42917
+  },
+  {
+    "record_id": "ESG_ZK_2024_718",
+    "raw_ban": "22099131",
+    "raw_net_emission": 220055
+  },
+  {
+    "record_id": "ESG_ZK_2024_719",
+    "raw_ban": "28112646",
+    "raw_net_emission": 48821
+  },
+  {
+    "record_id": "ESG_ZK_2024_721",
+    "raw_ban": "04401392",
+    "raw_net_emission": 40868
+  },
+  {
+    "record_id": "ESG_ZK_2024_722",
+    "raw_ban": "04380087",
+    "raw_net_emission": 53754
+  },
+  {
+    "record_id": "ESG_ZK_2024_724",
+    "raw_ban": "22099548",
+    "raw_net_emission": 135552
+  },
+  {
+    "record_id": "ESG_ZK_2024_725",
+    "raw_ban": "11768704",
+    "raw_net_emission": 48861
+  },
+  {
+    "record_id": "ESG_ZK_2024_727",
+    "raw_ban": "22099456",
+    "raw_net_emission": 193858
+  },
+  {
+    "record_id": "ESG_ZK_2024_728",
+    "raw_ban": "43816068",
+    "raw_net_emission": 17146
+  },
+  {
+    "record_id": "ESG_ZK_2024_729",
+    "raw_ban": "04748660",
+    "raw_net_emission": 46543
+  },
+  {
+    "record_id": "ESG_ZK_2024_730",
+    "raw_ban": "75280209",
+    "raw_net_emission": 281170
+  },
+  {
+    "record_id": "ESG_ZK_2024_731",
+    "raw_ban": "80087041",
+    "raw_net_emission": 131187
+  },
+  {
+    "record_id": "ESG_ZK_2024_732",
+    "raw_ban": "24410807",
+    "raw_net_emission": 10310
+  },
+  {
+    "record_id": "ESG_ZK_2024_733",
+    "raw_ban": "75947936",
+    "raw_net_emission": 113931
+  },
+  {
+    "record_id": "ESG_ZK_2024_734",
+    "raw_ban": "22327037",
+    "raw_net_emission": 58578
+  },
+  {
+    "record_id": "ESG_ZK_2024_735",
+    "raw_ban": "28518076",
+    "raw_net_emission": 393522
+  },
+  {
+    "record_id": "ESG_ZK_2024_736",
+    "raw_ban": "11768704",
+    "raw_net_emission": 47234
+  },
+  {
+    "record_id": "ESG_ZK_2024_737",
+    "raw_ban": "24004006",
+    "raw_net_emission": 31958
+  },
+  {
+    "record_id": "ESG_ZK_2024_738",
+    "raw_ban": "23535435",
+    "raw_net_emission": 41346
+  },
+  {
+    "record_id": "ESG_ZK_2024_739",
+    "raw_ban": "11914002",
+    "raw_net_emission": 114348
+  },
+  {
+    "record_id": "ESG_ZK_2024_740",
+    "raw_ban": "22099131",
+    "raw_net_emission": 167517
+  },
+  {
+    "record_id": "ESG_ZK_2024_742",
+    "raw_ban": "75370905",
+    "raw_net_emission": 27792
+  },
+  {
+    "record_id": "ESG_ZK_2024_743",
+    "raw_ban": "70815339",
+    "raw_net_emission": 13474
+  },
+  {
+    "record_id": "ESG_ZK_2024_744",
+    "raw_ban": "70848556",
+    "raw_net_emission": 41807
+  },
+  {
+    "record_id": "ESG_ZK_2024_745",
+    "raw_ban": "75708007",
+    "raw_net_emission": 263758
+  },
+  {
+    "record_id": "ESG_ZK_2024_746",
+    "raw_ban": "11917107",
+    "raw_net_emission": 137391
+  },
+  {
+    "record_id": "ESG_ZK_2024_747",
+    "raw_ban": "11912102",
+    "raw_net_emission": 22397
+  },
+  {
+    "record_id": "ESG_ZK_2024_748",
+    "raw_ban": "03707901",
+    "raw_net_emission": 103780
+  },
+  {
+    "record_id": "ESG_ZK_2024_749",
+    "raw_ban": "89356756",
+    "raw_net_emission": 19850
+  },
+  {
+    "record_id": "ESG_ZK_2024_751",
+    "raw_ban": "85803825",
+    "raw_net_emission": 87920
+  },
+  {
+    "record_id": "ESG_ZK_2024_752",
+    "raw_ban": "16082267",
+    "raw_net_emission": 15963
+  },
+  {
+    "record_id": "ESG_ZK_2024_753",
+    "raw_ban": "11072509",
+    "raw_net_emission": 62978
+  },
+  {
+    "record_id": "ESG_ZK_2024_754",
+    "raw_ban": "14040691",
+    "raw_net_emission": 180508
+  },
+  {
+    "record_id": "ESG_ZK_2024_755",
+    "raw_ban": "22099456",
+    "raw_net_emission": 161150
+  },
+  {
+    "record_id": "ESG_ZK_2024_756",
+    "raw_ban": "22099131",
+    "raw_net_emission": 116752
+  },
+  {
+    "record_id": "ESG_ZK_2024_757",
+    "raw_ban": "16450500",
+    "raw_net_emission": 0
+  },
+  {
+    "record_id": "ESG_ZK_2024_758",
+    "raw_ban": "22099131",
+    "raw_net_emission": 361740
+  },
+  {
+    "record_id": "ESG_ZK_2024_759",
+    "raw_ban": "83387850",
+    "raw_net_emission": 18838
+  },
+  {
+    "record_id": "ESG_ZK_2024_760",
+    "raw_ban": "42010509",
+    "raw_net_emission": 164107
+  },
+  {
+    "record_id": "ESG_ZK_2024_761",
+    "raw_ban": "12209807",
+    "raw_net_emission": 21697
+  },
+  {
+    "record_id": "ESG_ZK_2024_762",
+    "raw_ban": "12488060",
+    "raw_net_emission": 33699
+  },
+  {
+    "record_id": "ESG_ZK_2024_763",
+    "raw_ban": "22099131",
+    "raw_net_emission": 136810
+  },
+  {
+    "record_id": "ESG_ZK_2024_764",
+    "raw_ban": "16847968",
+    "raw_net_emission": 6571
+  },
+  {
+    "record_id": "ESG_ZK_2024_765",
+    "raw_ban": "84149738",
+    "raw_net_emission": 5057
+  },
+  {
+    "record_id": "ESG_ZK_2024_766",
+    "raw_ban": "22099131",
+    "raw_net_emission": 310507
+  },
+  {
+    "record_id": "ESG_ZK_2024_767",
+    "raw_ban": "53667030",
+    "raw_net_emission": 52830
+  },
+  {
+    "record_id": "ESG_ZK_2024_768",
+    "raw_ban": "07205416",
+    "raw_net_emission": 18785
+  },
+  {
+    "record_id": "ESG_ZK_2024_769",
+    "raw_ban": "58176511",
+    "raw_net_emission": 27007
+  },
+  {
+    "record_id": "ESG_ZK_2024_770",
+    "raw_ban": "76027628",
+    "raw_net_emission": 11753
+  },
+  {
+    "record_id": "ESG_ZK_2024_771",
+    "raw_ban": "22099218",
+    "raw_net_emission": 278388
+  },
+  {
+    "record_id": "ESG_ZK_2024_772",
+    "raw_ban": "28098406",
+    "raw_net_emission": 41341
+  },
+  {
+    "record_id": "ESG_ZK_2024_773",
+    "raw_ban": "75460005",
+    "raw_net_emission": 81380
+  },
+  {
+    "record_id": "ESG_ZK_2024_774",
+    "raw_ban": "16082267",
+    "raw_net_emission": 35213
+  },
+  {
+    "record_id": "ESG_ZK_2024_775",
+    "raw_ban": "03084741",
+    "raw_net_emission": 162726
+  },
+  {
+    "record_id": "ESG_ZK_2024_776",
+    "raw_ban": "73252657",
+    "raw_net_emission": 89130
+  },
+  {
+    "record_id": "ESG_ZK_2024_777",
+    "raw_ban": "16631664",
+    "raw_net_emission": 39585
+  },
+  {
+    "record_id": "ESG_ZK_2024_778",
+    "raw_ban": "12800750",
+    "raw_net_emission": 13620
+  },
+  {
+    "record_id": "ESG_ZK_2024_779",
+    "raw_ban": "36514783",
+    "raw_net_emission": 32424
+  },
+  {
+    "record_id": "ESG_ZK_2024_780",
+    "raw_ban": "33955322",
+    "raw_net_emission": 73211
+  },
+  {
+    "record_id": "ESG_ZK_2024_781",
+    "raw_ban": "16432742",
+    "raw_net_emission": 113515
+  },
+  {
+    "record_id": "ESG_ZK_2024_783",
+    "raw_ban": "75708007",
+    "raw_net_emission": 122254
+  },
+  {
+    "record_id": "ESG_ZK_2024_784",
+    "raw_ban": "11914002",
+    "raw_net_emission": 0
+  },
+  {
+    "record_id": "ESG_ZK_2024_785",
+    "raw_ban": "68387705",
+    "raw_net_emission": 173022
+  },
+  {
+    "record_id": "ESG_ZK_2024_786",
+    "raw_ban": "22267777",
+    "raw_net_emission": 8218
+  },
+  {
+    "record_id": "ESG_ZK_2024_787",
+    "raw_ban": "03795904",
+    "raw_net_emission": 59863
+  },
+  {
+    "record_id": "ESG_ZK_2024_788",
+    "raw_ban": "22318678",
+    "raw_net_emission": 37280
+  },
+  {
+    "record_id": "ESG_ZK_2024_789",
+    "raw_ban": "04226091",
+    "raw_net_emission": 38357
+  },
+  {
+    "record_id": "ESG_ZK_2024_790",
+    "raw_ban": "22318516",
+    "raw_net_emission": 131443
+  },
+  {
+    "record_id": "ESG_ZK_2024_791",
+    "raw_ban": "11384708",
+    "raw_net_emission": 409040
+  },
+  {
+    "record_id": "ESG_ZK_2024_792",
+    "raw_ban": "97168665",
+    "raw_net_emission": 50602
+  },
+  {
+    "record_id": "ESG_ZK_2024_793",
+    "raw_ban": "23535435",
+    "raw_net_emission": 27404
+  },
+  {
+    "record_id": "ESG_ZK_2024_794",
+    "raw_ban": "75708007",
+    "raw_net_emission": 264440
+  },
+  {
+    "record_id": "ESG_ZK_2024_795",
+    "raw_ban": "25049986",
+    "raw_net_emission": 19341
+  },
+  {
+    "record_id": "ESG_ZK_2024_796",
+    "raw_ban": "35082604",
+    "raw_net_emission": 60538
+  },
+  {
+    "record_id": "ESG_ZK_2024_797",
+    "raw_ban": "22099131",
+    "raw_net_emission": 62491
+  },
+  {
+    "record_id": "ESG_ZK_2024_799",
+    "raw_ban": "70785139",
+    "raw_net_emission": 28544
+  },
+  {
+    "record_id": "ESG_ZK_2024_800",
+    "raw_ban": "53170263",
+    "raw_net_emission": 41705
+  },
+  {
+    "record_id": "ESG_ZK_2024_801",
+    "raw_ban": "55991080",
+    "raw_net_emission": 38874
+  },
+  {
+    "record_id": "ESG_ZK_2024_802",
+    "raw_ban": "28438025",
+    "raw_net_emission": 35365
+  },
+  {
+    "record_id": "ESG_ZK_2024_803",
+    "raw_ban": "03244705",
+    "raw_net_emission": 34754
+  },
+  {
+    "record_id": "ESG_ZK_2024_804",
+    "raw_ban": "16130009",
+    "raw_net_emission": 17834
+  },
+  {
+    "record_id": "ESG_ZK_2024_805",
+    "raw_ban": "84149738",
+    "raw_net_emission": 139246
+  },
+  {
+    "record_id": "ESG_ZK_2024_806",
+    "raw_ban": "75280209",
+    "raw_net_emission": 306993
+  },
+  {
+    "record_id": "ESG_ZK_2024_807",
+    "raw_ban": "22099131",
+    "raw_net_emission": 403078
+  },
+  {
+    "record_id": "ESG_ZK_2024_808",
+    "raw_ban": "16082267",
+    "raw_net_emission": 39198
+  },
+  {
+    "record_id": "ESG_ZK_2024_809",
+    "raw_ban": "59504506",
+    "raw_net_emission": 24207
+  },
+  {
+    "record_id": "ESG_ZK_2024_810",
+    "raw_ban": "28112667",
+    "raw_net_emission": 34504
+  },
+  {
+    "record_id": "ESG_ZK_2024_811",
+    "raw_ban": "86119908",
+    "raw_net_emission": 21439
+  },
+  {
+    "record_id": "ESG_ZK_2024_813",
+    "raw_ban": "22480876",
+    "raw_net_emission": 45619
+  },
+  {
+    "record_id": "ESG_ZK_2024_815",
+    "raw_ban": "45018531",
+    "raw_net_emission": 17355
+  },
+  {
+    "record_id": "ESG_ZK_2024_816",
+    "raw_ban": "04401392",
+    "raw_net_emission": 47199
+  },
+  {
+    "record_id": "ESG_ZK_2024_817",
+    "raw_ban": "94025264",
+    "raw_net_emission": 151433
+  },
+  {
+    "record_id": "ESG_ZK_2024_818",
+    "raw_ban": "94025264",
+    "raw_net_emission": 160376
+  },
+  {
+    "record_id": "ESG_ZK_2024_819",
+    "raw_ban": "56121907",
+    "raw_net_emission": 42645
+  },
+  {
+    "record_id": "ESG_ZK_2024_820",
+    "raw_ban": "76027628",
+    "raw_net_emission": 32285
+  },
+  {
+    "record_id": "ESG_ZK_2024_821",
+    "raw_ban": "70584724",
+    "raw_net_emission": 22528
+  },
+  {
+    "record_id": "ESG_ZK_2024_822",
+    "raw_ban": "84252697",
+    "raw_net_emission": 134843
+  },
+  {
+    "record_id": "ESG_ZK_2024_823",
+    "raw_ban": "20927014",
+    "raw_net_emission": 95777
+  },
+  {
+    "record_id": "ESG_ZK_2024_824",
+    "raw_ban": "11914002",
+    "raw_net_emission": 117367
+  },
+  {
+    "record_id": "ESG_ZK_2024_825",
+    "raw_ban": "33144175",
+    "raw_net_emission": 20387
+  },
+  {
+    "record_id": "ESG_ZK_2024_826",
+    "raw_ban": "54393468",
+    "raw_net_emission": 2693
+  },
+  {
+    "record_id": "ESG_ZK_2024_827",
+    "raw_ban": "35412204",
+    "raw_net_emission": 208073
+  },
+  {
+    "record_id": "ESG_ZK_2024_828",
+    "raw_ban": "22099131",
+    "raw_net_emission": 83903
+  },
+  {
+    "record_id": "ESG_ZK_2024_829",
+    "raw_ban": "84149738",
+    "raw_net_emission": 346194
+  },
+  {
+    "record_id": "ESG_ZK_2024_830",
+    "raw_ban": "16096804",
+    "raw_net_emission": 348920
+  },
+  {
+    "record_id": "ESG_ZK_2024_831",
+    "raw_ban": "04226091",
+    "raw_net_emission": 40465
+  },
+  {
+    "record_id": "ESG_ZK_2024_832",
+    "raw_ban": "42010509",
+    "raw_net_emission": 138940
+  },
+  {
+    "record_id": "ESG_ZK_2024_833",
+    "raw_ban": "05637971",
+    "raw_net_emission": 46259
+  },
+  {
+    "record_id": "ESG_ZK_2024_835",
+    "raw_ban": "23535435",
+    "raw_net_emission": 63689
+  },
+  {
+    "record_id": "ESG_ZK_2024_836",
+    "raw_ban": "22099131",
+    "raw_net_emission": 258001
+  },
+  {
+    "record_id": "ESG_ZK_2024_837",
+    "raw_ban": "89939090",
+    "raw_net_emission": 29742
+  },
+  {
+    "record_id": "ESG_ZK_2024_838",
+    "raw_ban": "34175598",
+    "raw_net_emission": 28756
+  },
+  {
+    "record_id": "ESG_ZK_2024_839",
+    "raw_ban": "22480876",
+    "raw_net_emission": 47964
+  },
+  {
+    "record_id": "ESG_ZK_2024_841",
+    "raw_ban": "22522453",
+    "raw_net_emission": 47143
+  },
+  {
+    "record_id": "ESG_ZK_2024_842",
+    "raw_ban": "22099456",
+    "raw_net_emission": 45556
+  },
+  {
+    "record_id": "ESG_ZK_2024_843",
+    "raw_ban": "22099890",
+    "raw_net_emission": 14665
+  },
+  {
+    "record_id": "ESG_ZK_2024_844",
+    "raw_ban": "23218022",
+    "raw_net_emission": 34050
+  },
+  {
+    "record_id": "ESG_ZK_2024_845",
+    "raw_ban": "84149786",
+    "raw_net_emission": 14933
+  },
+  {
+    "record_id": "ESG_ZK_2024_846",
+    "raw_ban": "83387850",
+    "raw_net_emission": 17860
+  },
+  {
+    "record_id": "ESG_ZK_2024_847",
+    "raw_ban": "16130009",
+    "raw_net_emission": 18116
+  },
+  {
+    "record_id": "ESG_ZK_2024_848",
+    "raw_ban": "70584724",
+    "raw_net_emission": 241172
+  },
+  {
+    "record_id": "ESG_ZK_2024_849",
+    "raw_ban": "55991080",
+    "raw_net_emission": 97550
+  },
+  {
+    "record_id": "ESG_ZK_2024_850",
+    "raw_ban": "30901647",
+    "raw_net_emission": 5536
+  },
+  {
+    "record_id": "ESG_ZK_2024_851",
+    "raw_ban": "16834268",
+    "raw_net_emission": 71784
+  },
+  {
+    "record_id": "ESG_ZK_2024_852",
+    "raw_ban": "11072509",
+    "raw_net_emission": 30469
+  },
+  {
+    "record_id": "ESG_ZK_2024_853",
+    "raw_ban": "47255947",
+    "raw_net_emission": 30073
+  },
+  {
+    "record_id": "ESG_ZK_2024_854",
+    "raw_ban": "22360437",
+    "raw_net_emission": 18240
+  },
+  {
+    "record_id": "ESG_ZK_2024_855",
+    "raw_ban": "30901647",
+    "raw_net_emission": 5390
+  },
+  {
+    "record_id": "ESG_ZK_2024_856",
+    "raw_ban": "44528635",
+    "raw_net_emission": 30843
+  },
+  {
+    "record_id": "ESG_ZK_2024_857",
+    "raw_ban": "28438025",
+    "raw_net_emission": 25399
+  },
+  {
+    "record_id": "ESG_ZK_2024_858",
+    "raw_ban": "73686632",
+    "raw_net_emission": 51010
+  },
+  {
+    "record_id": "ESG_ZK_2024_859",
+    "raw_ban": "30414175",
+    "raw_net_emission": 148410
+  },
+  {
+    "record_id": "ESG_ZK_2024_860",
+    "raw_ban": "80353271",
+    "raw_net_emission": 442367
+  },
+  {
+    "record_id": "ESG_ZK_2024_861",
+    "raw_ban": "23535435",
+    "raw_net_emission": 26435
+  },
+  {
+    "record_id": "ESG_ZK_2024_862",
+    "raw_ban": "70783006",
+    "raw_net_emission": 26702
+  },
+  {
+    "record_id": "ESG_ZK_2024_863",
+    "raw_ban": "84149738",
+    "raw_net_emission": 28585
+  },
+  {
+    "record_id": "ESG_ZK_2024_864",
+    "raw_ban": "12617727",
+    "raw_net_emission": 30617
+  },
+  {
+    "record_id": "ESG_ZK_2024_865",
+    "raw_ban": "13035951",
+    "raw_net_emission": 14430
+  },
+  {
+    "record_id": "ESG_ZK_2024_866",
+    "raw_ban": "12800225",
+    "raw_net_emission": 401142
+  },
+  {
+    "record_id": "ESG_ZK_2024_867",
+    "raw_ban": "12800225",
+    "raw_net_emission": 409545
+  },
+  {
+    "record_id": "ESG_ZK_2024_869",
+    "raw_ban": "75370905",
+    "raw_net_emission": 75122
+  },
+  {
+    "record_id": "ESG_ZK_2024_871",
+    "raw_ban": "73251209",
+    "raw_net_emission": 45948
+  },
+  {
+    "record_id": "ESG_ZK_2024_872",
+    "raw_ban": "16138282",
+    "raw_net_emission": 38946
+  },
+  {
+    "record_id": "ESG_ZK_2024_873",
+    "raw_ban": "28112646",
+    "raw_net_emission": 48757
+  },
+  {
+    "record_id": "ESG_ZK_2024_874",
+    "raw_ban": "54389725",
+    "raw_net_emission": 35082
+  },
+  {
+    "record_id": "ESG_ZK_2024_876",
+    "raw_ban": "22099110",
+    "raw_net_emission": 120937
+  },
+  {
+    "record_id": "ESG_ZK_2024_877",
+    "raw_ban": "19004316",
+    "raw_net_emission": 29279
+  },
+  {
+    "record_id": "ESG_ZK_2024_878",
+    "raw_ban": "23535435",
+    "raw_net_emission": 64601
+  },
+  {
+    "record_id": "ESG_ZK_2024_879",
+    "raw_ban": "28113286",
+    "raw_net_emission": 120815
+  },
+  {
+    "record_id": "ESG_ZK_2024_880",
+    "raw_ban": "55695790",
+    "raw_net_emission": 124585
+  },
+  {
+    "record_id": "ESG_ZK_2024_881",
+    "raw_ban": "03522600",
+    "raw_net_emission": 394578
+  },
+  {
+    "record_id": "ESG_ZK_2024_882",
+    "raw_ban": "75280209",
+    "raw_net_emission": 26381
+  },
+  {
+    "record_id": "ESG_ZK_2024_884",
+    "raw_ban": "70751779",
+    "raw_net_emission": 19154
+  },
+  {
+    "record_id": "ESG_ZK_2024_886",
+    "raw_ban": "34258318",
+    "raw_net_emission": 33317
+  },
+  {
+    "record_id": "ESG_ZK_2024_887",
+    "raw_ban": "22817999",
+    "raw_net_emission": 90415
+  },
+  {
+    "record_id": "ESG_ZK_2024_888",
+    "raw_ban": "84149358",
+    "raw_net_emission": 182685
+  },
+  {
+    "record_id": "ESG_ZK_2024_889",
+    "raw_ban": "22822748",
+    "raw_net_emission": 92280
+  },
+  {
+    "record_id": "ESG_ZK_2024_890",
+    "raw_ban": "16082267",
+    "raw_net_emission": 30785
+  },
+  {
+    "record_id": "ESG_ZK_2024_891",
+    "raw_ban": "68919301",
+    "raw_net_emission": 17316
+  },
+  {
+    "record_id": "ESG_ZK_2024_892",
+    "raw_ban": "75370905",
+    "raw_net_emission": 343499
+  },
+  {
+    "record_id": "ESG_ZK_2024_893",
+    "raw_ban": "28114454",
+    "raw_net_emission": 2235
+  },
+  {
+    "record_id": "ESG_ZK_2024_894",
+    "raw_ban": "96971313",
+    "raw_net_emission": 142581
+  },
+  {
+    "record_id": "ESG_ZK_2024_895",
+    "raw_ban": "39054405",
+    "raw_net_emission": 61905
+  },
+  {
+    "record_id": "ESG_ZK_2024_896",
+    "raw_ban": "04388145",
+    "raw_net_emission": 66432
+  },
+  {
+    "record_id": "ESG_ZK_2024_897",
+    "raw_ban": "04312878",
+    "raw_net_emission": 62653
+  },
+  {
+    "record_id": "ESG_ZK_2024_898",
+    "raw_ban": "22956507",
+    "raw_net_emission": 29392
+  },
+  {
+    "record_id": "ESG_ZK_2024_899",
+    "raw_ban": "28098406",
+    "raw_net_emission": 109833
+  },
+  {
+    "record_id": "ESG_ZK_2024_900",
+    "raw_ban": "70584724",
+    "raw_net_emission": 247485
+  },
+  {
+    "record_id": "ESG_ZK_2024_901",
+    "raw_ban": "22099131",
+    "raw_net_emission": 243545
+  },
+  {
+    "record_id": "ESG_ZK_2024_902",
+    "raw_ban": "55991080",
+    "raw_net_emission": 195315
+  },
+  {
+    "record_id": "ESG_ZK_2024_904",
+    "raw_ban": "27763753",
+    "raw_net_emission": 20128
+  },
+  {
+    "record_id": "ESG_ZK_2024_905",
+    "raw_ban": "22522453",
+    "raw_net_emission": 51506
+  },
+  {
+    "record_id": "ESG_ZK_2024_906",
+    "raw_ban": "07472834",
+    "raw_net_emission": 32912
+  },
+  {
+    "record_id": "ESG_ZK_2024_908",
+    "raw_ban": "03522600",
+    "raw_net_emission": 5124
+  },
+  {
+    "record_id": "ESG_ZK_2024_909",
+    "raw_ban": "22099131",
+    "raw_net_emission": 392869
+  },
+  {
+    "record_id": "ESG_ZK_2024_910",
+    "raw_ban": "11384708",
+    "raw_net_emission": 65509
+  },
+  {
+    "record_id": "ESG_ZK_2024_912",
+    "raw_ban": "47217677",
+    "raw_net_emission": 71607
+  },
+  {
+    "record_id": "ESG_ZK_2024_913",
+    "raw_ban": "34202841",
+    "raw_net_emission": 235471
+  },
+  {
+    "record_id": "ESG_ZK_2024_914",
+    "raw_ban": "28113286",
+    "raw_net_emission": 119039
+  },
+  {
+    "record_id": "ESG_ZK_2024_915",
+    "raw_ban": "89004161",
+    "raw_net_emission": 31114
+  },
+  {
+    "record_id": "ESG_ZK_2024_917",
+    "raw_ban": "16096804",
+    "raw_net_emission": 68994
+  },
+  {
+    "record_id": "ESG_ZK_2024_918",
+    "raw_ban": "88121697",
+    "raw_net_emission": 50476
+  },
+  {
+    "record_id": "ESG_ZK_2024_920",
+    "raw_ban": "75370905",
+    "raw_net_emission": 70993
+  },
+  {
+    "record_id": "ESG_ZK_2024_921",
+    "raw_ban": "16082267",
+    "raw_net_emission": 18625
+  },
+  {
+    "record_id": "ESG_ZK_2024_922",
+    "raw_ban": "22099218",
+    "raw_net_emission": 108619
+  },
+  {
+    "record_id": "ESG_ZK_2024_923",
+    "raw_ban": "27763753",
+    "raw_net_emission": 10007
+  },
+  {
+    "record_id": "ESG_ZK_2024_924",
+    "raw_ban": "33085508",
+    "raw_net_emission": 123884
+  },
+  {
+    "record_id": "ESG_ZK_2024_925",
+    "raw_ban": "22267777",
+    "raw_net_emission": 8794
+  },
+  {
+    "record_id": "ESG_ZK_2024_926",
+    "raw_ban": "25131486",
+    "raw_net_emission": 28382
+  },
+  {
+    "record_id": "ESG_ZK_2024_927",
+    "raw_ban": "75970680",
+    "raw_net_emission": 30610
+  },
+  {
+    "record_id": "ESG_ZK_2024_928",
+    "raw_ban": "33144175",
+    "raw_net_emission": 28730
+  },
+  {
+    "record_id": "ESG_ZK_2024_929",
+    "raw_ban": "47217677",
+    "raw_net_emission": 201469
+  },
+  {
+    "record_id": "ESG_ZK_2024_930",
+    "raw_ban": "84149884",
+    "raw_net_emission": 4016
+  },
+  {
+    "record_id": "ESG_ZK_2024_931",
+    "raw_ban": "23535435",
+    "raw_net_emission": 116644
+  },
+  {
+    "record_id": "ESG_ZK_2024_932",
+    "raw_ban": "07838854",
+    "raw_net_emission": 24906
+  },
+  {
+    "record_id": "ESG_ZK_2024_933",
+    "raw_ban": "38119936",
+    "raw_net_emission": 41839
+  },
+  {
+    "record_id": "ESG_ZK_2024_934",
+    "raw_ban": "22099131",
+    "raw_net_emission": 212493
+  },
+  {
+    "record_id": "ESG_ZK_2024_935",
+    "raw_ban": "22522453",
+    "raw_net_emission": 23779
+  },
+  {
+    "record_id": "ESG_ZK_2024_936",
+    "raw_ban": "23535435",
+    "raw_net_emission": 65422
+  },
+  {
+    "record_id": "ESG_ZK_2024_937",
+    "raw_ban": "16446128",
+    "raw_net_emission": 42278
+  },
+  {
+    "record_id": "ESG_ZK_2024_938",
+    "raw_ban": "23535435",
+    "raw_net_emission": 60442
+  },
+  {
+    "record_id": "ESG_ZK_2024_939",
+    "raw_ban": "16834268",
+    "raw_net_emission": 69575
+  },
+  {
+    "record_id": "ESG_ZK_2024_940",
+    "raw_ban": "70752257",
+    "raw_net_emission": 34599
+  },
+  {
+    "record_id": "ESG_ZK_2024_941",
+    "raw_ban": "22099174",
+    "raw_net_emission": 58004
+  },
+  {
+    "record_id": "ESG_ZK_2024_942",
+    "raw_ban": "56121907",
+    "raw_net_emission": 45421
+  },
+  {
+    "record_id": "ESG_ZK_2024_943",
+    "raw_ban": "22507241",
+    "raw_net_emission": 73443
+  },
+  {
+    "record_id": "ESG_ZK_2024_944",
+    "raw_ban": "44528635",
+    "raw_net_emission": 35338
+  },
+  {
+    "record_id": "ESG_ZK_2024_946",
+    "raw_ban": "23535435",
+    "raw_net_emission": 72805
+  },
+  {
+    "record_id": "ESG_ZK_2024_947",
+    "raw_ban": "89480404",
+    "raw_net_emission": 40744
+  },
+  {
+    "record_id": "ESG_ZK_2024_948",
+    "raw_ban": "16130042",
+    "raw_net_emission": 33268
+  },
+  {
+    "record_id": "ESG_ZK_2024_949",
+    "raw_ban": "05007903",
+    "raw_net_emission": 26505
+  },
+  {
+    "record_id": "ESG_ZK_2024_951",
+    "raw_ban": "76027628",
+    "raw_net_emission": 17838
+  },
+  {
+    "record_id": "ESG_ZK_2024_952",
+    "raw_ban": "22480876",
+    "raw_net_emission": 65836
+  },
+  {
+    "record_id": "ESG_ZK_2024_953",
+    "raw_ban": "34227006",
+    "raw_net_emission": 19895
+  },
+  {
+    "record_id": "ESG_ZK_2024_955",
+    "raw_ban": "03795904",
+    "raw_net_emission": 34333
+  },
+  {
+    "record_id": "ESG_ZK_2024_956",
+    "raw_ban": "22099131",
+    "raw_net_emission": 195283
+  },
+  {
+    "record_id": "ESG_ZK_2024_960",
+    "raw_ban": "47217677",
+    "raw_net_emission": 444321
+  },
+  {
+    "record_id": "ESG_ZK_2024_961",
+    "raw_ban": "11384708",
+    "raw_net_emission": 378255
+  },
+  {
+    "record_id": "ESG_ZK_2024_962",
+    "raw_ban": "76027628",
+    "raw_net_emission": 26256
+  },
+  {
+    "record_id": "ESG_ZK_2024_963",
+    "raw_ban": "24410807",
+    "raw_net_emission": 32147
+  },
+  {
+    "record_id": "ESG_ZK_2024_964",
+    "raw_ban": "34263157",
+    "raw_net_emission": 31224
+  },
+  {
+    "record_id": "ESG_ZK_2024_965",
+    "raw_ban": "11384806",
+    "raw_net_emission": 419096
+  },
+  {
+    "record_id": "ESG_ZK_2024_966",
+    "raw_ban": "91004618",
+    "raw_net_emission": 16732
+  },
+  {
+    "record_id": "ESG_ZK_2024_967",
+    "raw_ban": "05126366",
+    "raw_net_emission": 24465
+  },
+  {
+    "record_id": "ESG_ZK_2024_970",
+    "raw_ban": "12800225",
+    "raw_net_emission": 66988
+  },
+  {
+    "record_id": "ESG_ZK_2024_971",
+    "raw_ban": "28438025",
+    "raw_net_emission": 23441
+  },
+  {
+    "record_id": "ESG_ZK_2024_972",
+    "raw_ban": "03795904",
+    "raw_net_emission": 196798
+  },
+  {
+    "record_id": "ESG_ZK_2024_973",
+    "raw_ban": "47217677",
+    "raw_net_emission": 93526
+  },
+  {
+    "record_id": "ESG_ZK_2024_974",
+    "raw_ban": "47217677",
+    "raw_net_emission": 76088
+  },
+  {
+    "record_id": "ESG_ZK_2024_975",
+    "raw_ban": "55695790",
+    "raw_net_emission": 119235
+  },
+  {
+    "record_id": "ESG_ZK_2024_976",
+    "raw_ban": "03084741",
+    "raw_net_emission": 21989
+  },
+  {
+    "record_id": "ESG_ZK_2024_977",
+    "raw_ban": "12800225",
+    "raw_net_emission": 350660
+  },
+  {
+    "record_id": "ESG_ZK_2024_978",
+    "raw_ban": "85978401",
+    "raw_net_emission": 29756
+  },
+  {
+    "record_id": "ESG_ZK_2024_979",
+    "raw_ban": "18770509",
+    "raw_net_emission": 11220
+  },
+  {
+    "record_id": "ESG_ZK_2024_980",
+    "raw_ban": "56054251",
+    "raw_net_emission": 13583
+  },
+  {
+    "record_id": "ESG_ZK_2024_981",
+    "raw_ban": "11072509",
+    "raw_net_emission": 53823
+  },
+  {
+    "record_id": "ESG_ZK_2024_982",
+    "raw_ban": "04401392",
+    "raw_net_emission": 38607
+  },
+  {
+    "record_id": "ESG_ZK_2024_983",
+    "raw_ban": "58176511",
+    "raw_net_emission": 30958
+  },
+  {
+    "record_id": "ESG_ZK_2024_984",
+    "raw_ban": "70783006",
+    "raw_net_emission": 73861
+  },
+  {
+    "record_id": "ESG_ZK_2024_985",
+    "raw_ban": "15395706",
+    "raw_net_emission": 405138
+  },
+  {
+    "record_id": "ESG_ZK_2024_986",
+    "raw_ban": "75370905",
+    "raw_net_emission": 71144
+  },
+  {
+    "record_id": "ESG_ZK_2024_987",
+    "raw_ban": "47217677",
+    "raw_net_emission": 122146
+  },
+  {
+    "record_id": "ESG_ZK_2024_988",
+    "raw_ban": "84149738",
+    "raw_net_emission": 17202
+  },
+  {
+    "record_id": "ESG_ZK_2024_989",
+    "raw_ban": "75970680",
+    "raw_net_emission": 23679
+  },
+  {
+    "record_id": "ESG_ZK_2024_990",
+    "raw_ban": "55991080",
+    "raw_net_emission": 105503
+  },
+  {
+    "record_id": "ESG_ZK_2024_991",
+    "raw_ban": "22099343",
+    "raw_net_emission": 0
+  },
+  {
+    "record_id": "ESG_ZK_2024_992",
+    "raw_ban": "16432742",
+    "raw_net_emission": 219923
+  },
+  {
+    "record_id": "ESG_ZK_2024_993",
+    "raw_ban": "54796568",
+    "raw_net_emission": 25654
+  },
+  {
+    "record_id": "ESG_ZK_2024_995",
+    "raw_ban": "85066002",
+    "raw_net_emission": 403720
+  },
+  {
+    "record_id": "ESG_ZK_2024_996",
+    "raw_ban": "23418128",
+    "raw_net_emission": 20541
+  },
+  {
+    "record_id": "ESG_ZK_2024_998",
+    "raw_ban": "22099131",
+    "raw_net_emission": 24266
+  },
+  {
+    "record_id": "ESG_ZK_2024_1000",
+    "raw_ban": "43816068",
+    "raw_net_emission": 19203
+  },
+  {
+    "record_id": "ESG_ZK_2024_1001",
+    "raw_ban": "75708007",
+    "raw_net_emission": 165163
+  },
+  {
+    "record_id": "ESG_ZK_2024_1002",
+    "raw_ban": "70785139",
+    "raw_net_emission": 29329
+  },
+  {
+    "record_id": "ESG_ZK_2024_1003",
+    "raw_ban": "89528054",
+    "raw_net_emission": 77523
+  },
+  {
+    "record_id": "ESG_ZK_2024_1004",
+    "raw_ban": "33405832",
+    "raw_net_emission": 42921
+  },
+  {
+    "record_id": "ESG_ZK_2024_1005",
+    "raw_ban": "16082267",
+    "raw_net_emission": 71206
+  },
+  {
+    "record_id": "ESG_ZK_2024_1006",
+    "raw_ban": "73251209",
+    "raw_net_emission": 21615
+  },
+  {
+    "record_id": "ESG_ZK_2024_1007",
+    "raw_ban": "84149738",
+    "raw_net_emission": 19579
+  },
+  {
+    "record_id": "ESG_ZK_2024_1008",
+    "raw_ban": "28112667",
+    "raw_net_emission": 35946
+  },
+  {
+    "record_id": "ESG_ZK_2024_1009",
+    "raw_ban": "30955404",
+    "raw_net_emission": 78260
+  },
+  {
+    "record_id": "ESG_ZK_2024_1010",
+    "raw_ban": "11072509",
+    "raw_net_emission": 213121
+  },
+  {
+    "record_id": "ESG_ZK_2024_1011",
+    "raw_ban": "34286449",
+    "raw_net_emission": 12047
+  },
+  {
+    "record_id": "ESG_ZK_2024_1012",
+    "raw_ban": "04695235",
+    "raw_net_emission": 16681
+  },
+  {
+    "record_id": "ESG_ZK_2024_1013",
+    "raw_ban": "84149884",
+    "raw_net_emission": 18177
+  },
+  {
+    "record_id": "ESG_ZK_2024_1014",
+    "raw_ban": "12800225",
+    "raw_net_emission": 395645
+  },
+  {
+    "record_id": "ESG_ZK_2024_1015",
+    "raw_ban": "22480876",
+    "raw_net_emission": 35476
+  },
+  {
+    "record_id": "ESG_ZK_2024_1016",
+    "raw_ban": "07663290",
+    "raw_net_emission": 18717
+  },
+  {
+    "record_id": "ESG_ZK_2024_1017",
+    "raw_ban": "43031502",
+    "raw_net_emission": 22766
+  },
+  {
+    "record_id": "ESG_ZK_2024_1018",
+    "raw_ban": "16130009",
+    "raw_net_emission": 19432
+  },
+  {
+    "record_id": "ESG_ZK_2024_1019",
+    "raw_ban": "43816068",
+    "raw_net_emission": 29211
+  },
+  {
+    "record_id": "ESG_ZK_2024_1021",
+    "raw_ban": "33085508",
+    "raw_net_emission": 20721
+  },
+  {
+    "record_id": "ESG_ZK_2024_1024",
+    "raw_ban": "84149738",
+    "raw_net_emission": 224762
+  },
+  {
+    "record_id": "ESG_ZK_2024_1025",
+    "raw_ban": "88680066",
+    "raw_net_emission": 16747
+  },
+  {
+    "record_id": "ESG_ZK_2024_1026",
+    "raw_ban": "33085508",
+    "raw_net_emission": 338762
+  },
+  {
+    "record_id": "ESG_ZK_2024_1027",
+    "raw_ban": "69771636",
+    "raw_net_emission": 243917
+  },
+  {
+    "record_id": "ESG_ZK_2024_1028",
+    "raw_ban": "03553737",
+    "raw_net_emission": 139345
+  },
+  {
+    "record_id": "ESG_ZK_2024_1029",
+    "raw_ban": "84149738",
+    "raw_net_emission": 19078
+  },
+  {
+    "record_id": "ESG_ZK_2024_1030",
+    "raw_ban": "16130042",
+    "raw_net_emission": 27944
+  },
+  {
+    "record_id": "ESG_ZK_2024_1031",
+    "raw_ban": "11072509",
+    "raw_net_emission": 30162
+  },
+  {
+    "record_id": "ESG_ZK_2024_1032",
+    "raw_ban": "23826736",
+    "raw_net_emission": 109106
+  },
+  {
+    "record_id": "ESG_ZK_2024_1033",
+    "raw_ban": "84570243",
+    "raw_net_emission": 14303
+  },
+  {
+    "record_id": "ESG_ZK_2024_1034",
+    "raw_ban": "97173920",
+    "raw_net_emission": 47008
+  },
+  {
+    "record_id": "ESG_ZK_2024_1035",
+    "raw_ban": "28518076",
+    "raw_net_emission": 158031
+  },
+  {
+    "record_id": "ESG_ZK_2024_1037",
+    "raw_ban": "70552666",
+    "raw_net_emission": 26961
+  },
+  {
+    "record_id": "ESG_ZK_2024_1038",
+    "raw_ban": "75708007",
+    "raw_net_emission": 122115
+  },
+  {
+    "record_id": "ESG_ZK_2024_1039",
+    "raw_ban": "96971313",
+    "raw_net_emission": 144518
+  },
+  {
+    "record_id": "ESG_ZK_2024_1040",
+    "raw_ban": "03522600",
+    "raw_net_emission": 380069
+  },
+  {
+    "record_id": "ESG_ZK_2024_1041",
+    "raw_ban": "12800225",
+    "raw_net_emission": 111593
+  },
+  {
+    "record_id": "ESG_ZK_2024_1042",
+    "raw_ban": "22099218",
+    "raw_net_emission": 242518
+  },
+  {
+    "record_id": "ESG_ZK_2024_1043",
+    "raw_ban": "22522453",
+    "raw_net_emission": 72254
+  },
+  {
+    "record_id": "ESG_ZK_2024_1044",
+    "raw_ban": "03244705",
+    "raw_net_emission": 46926
+  },
+  {
+    "record_id": "ESG_ZK_2024_1045",
+    "raw_ban": "22099131",
+    "raw_net_emission": 344918
+  },
+  {
+    "record_id": "ESG_ZK_2024_1046",
+    "raw_ban": "22099131",
+    "raw_net_emission": 182263
+  },
+  {
+    "record_id": "ESG_ZK_2024_1047",
+    "raw_ban": "28098406",
+    "raw_net_emission": 20800
+  },
+  {
+    "record_id": "ESG_ZK_2024_1049",
+    "raw_ban": "24001900",
+    "raw_net_emission": 37096
+  },
+  {
+    "record_id": "ESG_ZK_2024_1050",
+    "raw_ban": "89480404",
+    "raw_net_emission": 41277
+  },
+  {
+    "record_id": "ESG_ZK_2024_1051",
+    "raw_ban": "20844865",
+    "raw_net_emission": 195747
+  },
+  {
+    "record_id": "ESG_ZK_2024_1053",
+    "raw_ban": "03795101",
+    "raw_net_emission": 408921
+  },
+  {
+    "record_id": "ESG_ZK_2024_1055",
+    "raw_ban": "84149738",
+    "raw_net_emission": 221508
+  },
+  {
+    "record_id": "ESG_ZK_2024_1056",
+    "raw_ban": "20844865",
+    "raw_net_emission": 270492
+  },
+  {
+    "record_id": "ESG_ZK_2024_1057",
+    "raw_ban": "51158518",
+    "raw_net_emission": 5359
+  },
+  {
+    "record_id": "ESG_ZK_2024_1058",
+    "raw_ban": "70752257",
+    "raw_net_emission": 22953
+  },
+  {
+    "record_id": "ESG_ZK_2024_1059",
+    "raw_ban": "75470524",
+    "raw_net_emission": 52836
+  },
+  {
+    "record_id": "ESG_ZK_2024_1060",
+    "raw_ban": "16082267",
+    "raw_net_emission": 13391
+  },
+  {
+    "record_id": "ESG_ZK_2024_1061",
+    "raw_ban": "58650902",
+    "raw_net_emission": 15413
+  },
+  {
+    "record_id": "ESG_ZK_2024_1063",
+    "raw_ban": "16130042",
+    "raw_net_emission": 67493
+  },
+  {
+    "record_id": "ESG_ZK_2024_1064",
+    "raw_ban": "16450500",
+    "raw_net_emission": 32437
+  },
+  {
+    "record_id": "ESG_ZK_2024_1066",
+    "raw_ban": "22522453",
+    "raw_net_emission": 22184
+  },
+  {
+    "record_id": "ESG_ZK_2024_1067",
+    "raw_ban": "22099218",
+    "raw_net_emission": 131242
+  },
+  {
+    "record_id": "ESG_ZK_2024_1068",
+    "raw_ban": "43816068",
+    "raw_net_emission": 29626
+  },
+  {
+    "record_id": "ESG_ZK_2024_1069",
+    "raw_ban": "16130009",
+    "raw_net_emission": 38968
+  },
+  {
+    "record_id": "ESG_ZK_2024_1071",
+    "raw_ban": "16130423",
+    "raw_net_emission": 41239
+  },
+  {
+    "record_id": "ESG_ZK_2024_1072",
+    "raw_ban": "11686106",
+    "raw_net_emission": 99627
+  },
+  {
+    "record_id": "ESG_ZK_2024_1073",
+    "raw_ban": "94025264",
+    "raw_net_emission": 402719
+  },
+  {
+    "record_id": "ESG_ZK_2024_1074",
+    "raw_ban": "86119908",
+    "raw_net_emission": 52836
+  },
+  {
+    "record_id": "ESG_ZK_2024_1076",
+    "raw_ban": "22099131",
+    "raw_net_emission": 492145
+  },
+  {
+    "record_id": "ESG_ZK_2024_1077",
+    "raw_ban": "22099131",
+    "raw_net_emission": 112667
+  },
+  {
+    "record_id": "ESG_ZK_2024_1078",
+    "raw_ban": "59504506",
+    "raw_net_emission": 41006
+  },
+  {
+    "record_id": "ESG_ZK_2024_1079",
+    "raw_ban": "70785139",
+    "raw_net_emission": 20461
+  },
+  {
+    "record_id": "ESG_ZK_2024_1081",
+    "raw_ban": "03794905",
+    "raw_net_emission": 57529
+  },
+  {
+    "record_id": "ESG_ZK_2024_1082",
+    "raw_ban": "28115046",
+    "raw_net_emission": 42286
+  },
+  {
+    "record_id": "ESG_ZK_2024_1083",
+    "raw_ban": "16130042",
+    "raw_net_emission": 35233
+  },
+  {
+    "record_id": "ESG_ZK_2024_1084",
+    "raw_ban": "22522453",
+    "raw_net_emission": 62875
+  },
+  {
+    "record_id": "ESG_ZK_2024_1085",
+    "raw_ban": "22099131",
+    "raw_net_emission": 74282
+  },
+  {
+    "record_id": "ESG_ZK_2024_1086",
+    "raw_ban": "16130423",
+    "raw_net_emission": 41155
+  },
+  {
+    "record_id": "ESG_ZK_2024_1087",
+    "raw_ban": "70752257",
+    "raw_net_emission": 45794
+  },
+  {
+    "record_id": "ESG_ZK_2024_1088",
+    "raw_ban": "22662355",
+    "raw_net_emission": 148623
+  },
+  {
+    "record_id": "ESG_ZK_2024_1090",
+    "raw_ban": "28042430",
+    "raw_net_emission": 20103
+  },
+  {
+    "record_id": "ESG_ZK_2024_1091",
+    "raw_ban": "47109348",
+    "raw_net_emission": 116562
+  },
+  {
+    "record_id": "ESG_ZK_2024_1092",
+    "raw_ban": "22099131",
+    "raw_net_emission": 33784
+  },
+  {
+    "record_id": "ESG_ZK_2024_1093",
+    "raw_ban": "22100242",
+    "raw_net_emission": 51967
+  },
+  {
+    "record_id": "ESG_ZK_2024_1094",
+    "raw_ban": "75970680",
+    "raw_net_emission": 21429
+  },
+  {
+    "record_id": "ESG_ZK_2024_1095",
+    "raw_ban": "84252697",
+    "raw_net_emission": 129243
+  },
+  {
+    "record_id": "ESG_ZK_2024_1097",
+    "raw_ban": "75370905",
+    "raw_net_emission": 84774
+  },
+  {
+    "record_id": "ESG_ZK_2024_1098",
+    "raw_ban": "85978401",
+    "raw_net_emission": 57940
+  },
+  {
+    "record_id": "ESG_ZK_2024_1099",
+    "raw_ban": "89939090",
+    "raw_net_emission": 22611
+  },
+  {
+    "record_id": "ESG_ZK_2024_1100",
+    "raw_ban": "25049986",
+    "raw_net_emission": 20981
+  },
+  {
+    "record_id": "ESG_ZK_2024_1102",
+    "raw_ban": "85978401",
+    "raw_net_emission": 34794
+  },
+  {
+    "record_id": "ESG_ZK_2024_1103",
+    "raw_ban": "90838471",
+    "raw_net_emission": 26563
+  },
+  {
+    "record_id": "ESG_ZK_2024_1104",
+    "raw_ban": "39054405",
+    "raw_net_emission": 76580
+  },
+  {
+    "record_id": "ESG_ZK_2024_1105",
+    "raw_ban": "07838854",
+    "raw_net_emission": 228693
+  },
+  {
+    "record_id": "ESG_ZK_2024_1106",
+    "raw_ban": "86120031",
+    "raw_net_emission": 216765
+  },
+  {
+    "record_id": "ESG_ZK_2024_1107",
+    "raw_ban": "56054251",
+    "raw_net_emission": 14911
+  },
+  {
+    "record_id": "ESG_ZK_2024_1108",
+    "raw_ban": "11914002",
+    "raw_net_emission": 81042
+  },
+  {
+    "record_id": "ESG_ZK_2024_1110",
+    "raw_ban": "13079654",
+    "raw_net_emission": 17251
+  },
+  {
+    "record_id": "ESG_ZK_2024_1111",
+    "raw_ban": "45018531",
+    "raw_net_emission": 19448
+  }
+]
